@@ -13,15 +13,18 @@ public class ShopDatabaseSO : ScriptableObject
 public class ShopItem
 {
     [SerializeField] private ItemSO item;
+    [SerializeField] private ItemSO currency;
     [SerializeField] private int price;
     [SerializeField] private int quantity;
 
     public ItemSO item_ => item;
+    public ItemSO currency_ => currency;
     public int price_ => price;
     public int quantity_ => quantity;
-    public ShopItem(ItemSO item, int price, int quantity)
+    public ShopItem(ItemSO item, ItemSO currency, int price, int quantity)
     {
         this.item = item;
+        this.currency = currency;
         this.price = price;
         this.quantity = quantity;
     }

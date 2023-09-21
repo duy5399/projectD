@@ -1,0 +1,2290 @@
+fileFormatVersion: 2
+guid: d6935c2243d46fb4db960d06451c6be5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: wing05_show (2)_0
+  - first:
+      213: 21300002
+    second: wing05_show (2)_1
+  - first:
+      213: 21300004
+    second: wing05_show (2)_2
+  - first:
+      213: 21300006
+    second: wing05_show (2)_3
+  - first:
+      213: 21300008
+    second: wing05_show (2)_4
+  - first:
+      213: 21300010
+    second: wing05_show (2)_5
+  - first:
+      213: 21300012
+    second: wing05_show (2)_6
+  - first:
+      213: 21300014
+    second: wing05_show (2)_7
+  - first:
+      213: 21300016
+    second: wing05_show (2)_8
+  - first:
+      213: 21300018
+    second: wing05_show (2)_9
+  - first:
+      213: 21300020
+    second: wing05_show (2)_10
+  - first:
+      213: 21300022
+    second: wing05_show (2)_11
+  - first:
+      213: 21300024
+    second: wing05_show (2)_12
+  - first:
+      213: 21300026
+    second: wing05_show (2)_13
+  - first:
+      213: 21300028
+    second: wing05_show (2)_14
+  - first:
+      213: 21300030
+    second: wing05_show (2)_15
+  - first:
+      213: 21300032
+    second: wing05_show (2)_16
+  - first:
+      213: 21300034
+    second: wing05_show (2)_17
+  - first:
+      213: 21300036
+    second: wing05_show (2)_18
+  - first:
+      213: 21300038
+    second: wing05_show (2)_19
+  - first:
+      213: 21300040
+    second: wing05_show (2)_20
+  - first:
+      213: 21300042
+    second: wing05_show (2)_21
+  - first:
+      213: 21300044
+    second: wing05_show (2)_22
+  - first:
+      213: 21300046
+    second: wing05_show (2)_23
+  - first:
+      213: 21300048
+    second: wing05_show (2)_24
+  - first:
+      213: 21300050
+    second: wing05_show (2)_25
+  - first:
+      213: 21300052
+    second: wing05_show (2)_26
+  - first:
+      213: 21300054
+    second: wing05_show (2)_27
+  - first:
+      213: 21300056
+    second: wing05_show (2)_28
+  - first:
+      213: 21300058
+    second: wing05_show (2)_29
+  - first:
+      213: 21300060
+    second: wing05_show (2)_30
+  - first:
+      213: 21300062
+    second: wing05_show (2)_31
+  - first:
+      213: 21300064
+    second: wing05_show (2)_32
+  - first:
+      213: 21300066
+    second: wing05_show (2)_33
+  - first:
+      213: 21300068
+    second: wing05_show (2)_34
+  - first:
+      213: 21300070
+    second: wing05_show (2)_35
+  - first:
+      213: 21300072
+    second: wing05_show (2)_36
+  - first:
+      213: 21300074
+    second: wing05_show (2)_37
+  - first:
+      213: 21300076
+    second: wing05_show (2)_38
+  - first:
+      213: 21300078
+    second: wing05_show (2)_39
+  - first:
+      213: 21300080
+    second: wing05_show (2)_40
+  - first:
+      213: 21300082
+    second: wing05_show (2)_41
+  - first:
+      213: 21300084
+    second: wing05_show (2)_42
+  - first:
+      213: 21300086
+    second: wing05_show (2)_43
+  - first:
+      213: 21300088
+    second: wing05_show (2)_44
+  - first:
+      213: 21300090
+    second: wing05_show (2)_45
+  - first:
+      213: 21300092
+    second: wing05_show (2)_46
+  - first:
+      213: 21300094
+    second: wing05_show (2)_47
+  - first:
+      213: 21300096
+    second: wing05_show (2)_48
+  - first:
+      213: 21300098
+    second: wing05_show (2)_49
+  - first:
+      213: 21300100
+    second: wing05_show (2)_50
+  - first:
+      213: 21300102
+    second: wing05_show (2)_51
+  - first:
+      213: 21300104
+    second: wing05_show (2)_52
+  - first:
+      213: 21300106
+    second: wing05_show (2)_53
+  - first:
+      213: 21300108
+    second: wing05_show (2)_54
+  - first:
+      213: 21300110
+    second: wing05_show (2)_55
+  - first:
+      213: 21300112
+    second: wing05_show (2)_56
+  - first:
+      213: 21300114
+    second: wing05_show (2)_57
+  - first:
+      213: 21300116
+    second: wing05_show (2)_58
+  - first:
+      213: 21300118
+    second: wing05_show (2)_59
+  - first:
+      213: 21300120
+    second: wing05_show (2)_60
+  - first:
+      213: 21300122
+    second: wing05_show (2)_61
+  - first:
+      213: 21300124
+    second: wing05_show (2)_62
+  - first:
+      213: 21300126
+    second: wing05_show (2)_63
+  - first:
+      213: 21300128
+    second: wing05_show (2)_64
+  - first:
+      213: 21300130
+    second: wing05_show (2)_65
+  - first:
+      213: 21300132
+    second: wing05_show (2)_66
+  - first:
+      213: 21300134
+    second: wing05_show (2)_67
+  - first:
+      213: 21300136
+    second: wing05_show (2)_68
+  - first:
+      213: 21300138
+    second: wing05_show (2)_69
+  - first:
+      213: 21300140
+    second: wing05_show (2)_70
+  - first:
+      213: 21300142
+    second: wing05_show (2)_71
+  - first:
+      213: 21300144
+    second: wing05_show (2)_72
+  - first:
+      213: 21300146
+    second: wing05_show (2)_73
+  - first:
+      213: 21300148
+    second: wing05_show (2)_74
+  - first:
+      213: 21300150
+    second: wing05_show (2)_75
+  - first:
+      213: 21300152
+    second: wing05_show (2)_76
+  - first:
+      213: 21300154
+    second: wing05_show (2)_77
+  - first:
+      213: 21300156
+    second: wing05_show (2)_78
+  - first:
+      213: 21300158
+    second: wing05_show (2)_79
+  - first:
+      213: 21300160
+    second: wing05_show (2)_80
+  - first:
+      213: 21300162
+    second: wing05_show (2)_81
+  - first:
+      213: 21300164
+    second: wing05_show (2)_82
+  - first:
+      213: 21300166
+    second: wing05_show (2)_83
+  - first:
+      213: 21300168
+    second: wing05_show (2)_84
+  - first:
+      213: 21300170
+    second: wing05_show (2)_85
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wing05_show (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08735d174dac9409a0ab926ec11c6a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31ca341e4d5b444be50c48b24cadad
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed348e044c2da044ba55055dbe8c46c7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744658ac825cf864a8c7c1b278bb04f3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd6dd8fed74d348900b469f0e2adaf
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f61829d6dfa248b1c2f6febf64ac8
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_6
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2a40aaebea3e4ea5b0d3fbfea219e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_7
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8489d39790ef4e47aa4f065b7c691da
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_8
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efdbbbbaa122e4690288331bd1bde0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_9
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b154a4c513df2a4d9af4631d2e49dcd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_10
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c1df1c0f160342afe846f8435853b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_11
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa8f9f614536549a971279e4bcd0ed
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_12
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a68f0a3374984d9c39b8b8d0fca75
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_13
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1ac92f4640f641906408d9b615645
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_14
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422e1d2d2835dd49bdc84c9b2219058
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_15
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84513a9213b34c409e2045b9ad0d7fe
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_16
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e0e073364f4540b670c6d0487db66
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_17
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa4f962dc173184090e99bd3c70d9de
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_18
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 1440
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a0ebfebd920ff4bb634e754770627b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2642543f91ee54d922adf92deeac58
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b49d2f935bdfb4485871871f9c32f9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c4916ea4c1c9429fb391541060056
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c8840a0e194ed40be708afabbefd8b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_23
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea12af4a24d3184e83aadb31f7eb9d1
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_24
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97ec936bddb22043b8c7e20592d213e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_25
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd639a5bce2023448986ea375f8a1bf
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_26
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace30d2999c888f438a4c32ba72fd6d3
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_27
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da3a849bc517d429ddcc52a8583862
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_28
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f0b1c8f0e4734ab94f52375369f05
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_29
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ec2c6542e4644084cb8369bf228a8
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_30
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc0fd7910b1d940a4706b9522c2d66
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_31
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d866c215ed2cdf41b5ea930c2fd2246
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_32
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33c5ff98ac4524c9be530a818bd7fe
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_33
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3dd4d58355fa4eb1937c4a5729e43
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_34
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ad051e83cfb9745b508a34bd9b1d95
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_35
+      rect:
+        serializedVersion: 2
+        x: 5856
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9d6ab6a388264293b96a37a2fb360
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_36
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0a94eb6d0ba774fa78bbac8a72c60f
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_37
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb486c98a6143e478c7b17af000ca5b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_38
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 1080
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b207b425e9c3ac449438412454f51d3
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236f2d812f8c004aa61387c8c3c80b7
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e3214afd48d44e8e012830e0784dd
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_41
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c859078e4616b64eb276d3c91983d9a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744b141ea3f8494da788369d3e5a93f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_43
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da322371c732a14bbc3b605a8e84256
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_44
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc0d9261f57b0e4e9c03cfb801c6c19
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_45
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4107842f4ebe8054c8aa93104cf653f1
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_46
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5582f2d97ab747a428362012bdc96bf0
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_47
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398237f84b6659c47a34689208783039
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_48
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b5719030a102346b47cbce61a5b04f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_49
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16446f014779f4ba25a3d3267661c6
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_50
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298cdc63ad3d0f439e57793d879371f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_51
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ed3a7a63eec641b0a3b8de7778472
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_52
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae62e9986e221478f1b4986cb70720
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_53
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950735e7b0bc2a49a1ffa13236f8b24
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_54
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fa99d85df70e48b7764bede6bb0b0
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_55
+      rect:
+        serializedVersion: 2
+        x: 5856
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87199fc03fab6c4ab3a6109727e2eef
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_56
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6adea5e0f47da4d9f1c7cd823b2bb4
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_57
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4513c721d6bf549a7d03c885aecbbf
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_58
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 720
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241cdce899cc89d47b13429bcff40d01
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5b43caa42b3b469509a43bdd6d68b
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_60
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a64e1a213c6b41935f83ca5fbba43
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_61
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e612e1d0e4b06849b4ec03c284b7fec
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_62
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f456a0d214dc8342919b4a50bccb65f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_63
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916b078a48744f4fa665f6d3d0f59ba
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_64
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f35da53700ad4a82a9287b3d83b2f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_65
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ab7e5281cfd3478987c8a1360b821
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_66
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbbf404861d2d4a8e57946436db9e7
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_67
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd40ec83b077945bd9f4a71e27e286
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_68
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7406cbfceec43434b82ac795af067d02
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_69
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48171ec8ec0f50b42a54bed1825cd9a4
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_70
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3260a1ba6fafec14caad95d64fc5a977
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_71
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4cb8a6eac4894b97c42f21f884d61
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_72
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1629009838af829418f8367a5918fee5
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_73
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1079cf7d70e6d2d45a5d66438b2ec687
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_74
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59152287e84b486449d426be9512ba73
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_75
+      rect:
+        serializedVersion: 2
+        x: 5856
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5cf846f668a6c4e87077090d6d55a1
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_76
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82cca7f292448499fff265032fbffe
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_77
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e91e1f50cea104a97f86216c8694b2
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_78
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 360
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad462aa1baf0e084b91ce9d5e7951be2
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2dfaec18998942b803b240da4c75b
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_80
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39e5d8c267c154fa0d0d7c8dad536e
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_81
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41355a056bb3e1e4d8ef860325fc9a3c
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_82
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de71764f5f148cf4d964be74c521f051
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_83
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241a1a0727e39e4fbcb18cbcf8577e1
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_84
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf4a956501841459c330ab531d2b44
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing05_show (2)_85
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 0
+        width: 366
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af373cd2fdd6ab34b8954eaeb76e2c79
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a611b3c013bacf47a90d0d77b4141f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wing05_show (2)_0: 21300000
+      wing05_show (2)_1: 21300002
+      wing05_show (2)_10: 21300020
+      wing05_show (2)_11: 21300022
+      wing05_show (2)_12: 21300024
+      wing05_show (2)_13: 21300026
+      wing05_show (2)_14: 21300028
+      wing05_show (2)_15: 21300030
+      wing05_show (2)_16: 21300032
+      wing05_show (2)_17: 21300034
+      wing05_show (2)_18: 21300036
+      wing05_show (2)_19: 21300038
+      wing05_show (2)_2: 21300004
+      wing05_show (2)_20: 21300040
+      wing05_show (2)_21: 21300042
+      wing05_show (2)_22: 21300044
+      wing05_show (2)_23: 21300046
+      wing05_show (2)_24: 21300048
+      wing05_show (2)_25: 21300050
+      wing05_show (2)_26: 21300052
+      wing05_show (2)_27: 21300054
+      wing05_show (2)_28: 21300056
+      wing05_show (2)_29: 21300058
+      wing05_show (2)_3: 21300006
+      wing05_show (2)_30: 21300060
+      wing05_show (2)_31: 21300062
+      wing05_show (2)_32: 21300064
+      wing05_show (2)_33: 21300066
+      wing05_show (2)_34: 21300068
+      wing05_show (2)_35: 21300070
+      wing05_show (2)_36: 21300072
+      wing05_show (2)_37: 21300074
+      wing05_show (2)_38: 21300076
+      wing05_show (2)_39: 21300078
+      wing05_show (2)_4: 21300008
+      wing05_show (2)_40: 21300080
+      wing05_show (2)_41: 21300082
+      wing05_show (2)_42: 21300084
+      wing05_show (2)_43: 21300086
+      wing05_show (2)_44: 21300088
+      wing05_show (2)_45: 21300090
+      wing05_show (2)_46: 21300092
+      wing05_show (2)_47: 21300094
+      wing05_show (2)_48: 21300096
+      wing05_show (2)_49: 21300098
+      wing05_show (2)_5: 21300010
+      wing05_show (2)_50: 21300100
+      wing05_show (2)_51: 21300102
+      wing05_show (2)_52: 21300104
+      wing05_show (2)_53: 21300106
+      wing05_show (2)_54: 21300108
+      wing05_show (2)_55: 21300110
+      wing05_show (2)_56: 21300112
+      wing05_show (2)_57: 21300114
+      wing05_show (2)_58: 21300116
+      wing05_show (2)_59: 21300118
+      wing05_show (2)_6: 21300012
+      wing05_show (2)_60: 21300120
+      wing05_show (2)_61: 21300122
+      wing05_show (2)_62: 21300124
+      wing05_show (2)_63: 21300126
+      wing05_show (2)_64: 21300128
+      wing05_show (2)_65: 21300130
+      wing05_show (2)_66: 21300132
+      wing05_show (2)_67: 21300134
+      wing05_show (2)_68: 21300136
+      wing05_show (2)_69: 21300138
+      wing05_show (2)_7: 21300014
+      wing05_show (2)_70: 21300140
+      wing05_show (2)_71: 21300142
+      wing05_show (2)_72: 21300144
+      wing05_show (2)_73: 21300146
+      wing05_show (2)_74: 21300148
+      wing05_show (2)_75: 21300150
+      wing05_show (2)_76: 21300152
+      wing05_show (2)_77: 21300154
+      wing05_show (2)_78: 21300156
+      wing05_show (2)_79: 21300158
+      wing05_show (2)_8: 21300016
+      wing05_show (2)_80: 21300160
+      wing05_show (2)_81: 21300162
+      wing05_show (2)_82: 21300164
+      wing05_show (2)_83: 21300166
+      wing05_show (2)_84: 21300168
+      wing05_show (2)_85: 21300170
+      wing05_show (2)_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

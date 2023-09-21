@@ -19,7 +19,7 @@ public class MapChanger : MonoBehaviour
                 selectMapDifficultyBtn.Add(t.GetComponent<Button>());
         }
     }
-    void Start()
+    private void OnEnable()
     {
         ChangerMap(0);
     }

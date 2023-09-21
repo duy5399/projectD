@@ -14,15 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemID: weapon_01
   itemType: 0
-  itemIcon: {fileID: 21300000, guid: 6a010eb00bf3fb24e847c0cad37d7ee2, type: 3}
-  itemName: "S\u1EA5m s\xE9t"
+  itemIcon: {fileID: 21300000, guid: fdb7f36579f2e7e4abdc68ad70f244ee, type: 3}
+  itemName: "VIP - L\u1EF1u \u0111\u1EA1n"
   itemTier: 0
-  itemDescription: "S\u1EE9c m\u1EA1nh c\u1EE7a th\u1EA7n Zeus \u0111\u01B0\u1EE3c
-    phong \u1EA5n trong lo\u1EA1i v\u0169 kh\xED nguy hi\u1EC3m n\xE0y!"
+  itemDescription: "S\u1EE9c c\xF4ng ph\xE1 kh\u1EE7ng khi\u1EBFp"
   maxStackSize: 1
   itemSlot: 0
-  itemShow: {fileID: 21300000, guid: 6a010eb00bf3fb24e847c0cad37d7ee2, type: 3}
+  itemShow: {fileID: 21300000, guid: fdb7f36579f2e7e4abdc68ad70f244ee, type: 3}
   itemStats: []
   canUpgrade: 1
   itemStrength: 0
-  itemStrengthImg: {fileID: 21300000, guid: 1f44c2cbb82680a4d9ecc7471ecef8d6, type: 3}
+  itemStrengthImg: {fileID: 21300000, guid: 7168f9055db4c5a4485396a59006994a, type: 3}

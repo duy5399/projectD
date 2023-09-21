@@ -13,10 +13,13 @@ MonoBehaviour:
   m_Name: MapData
   m_EditorClassIdentifier: 
   map:
-  - mapMode:
+  - mapDifficulty:
     - {fileID: 11400000, guid: 599ee07ed30f15f40a09076b1c38fa60, type: 2}
     - {fileID: 11400000, guid: 1a8f1795def9ad94ebe0c181aa2338a7, type: 2}
-  - mapMode:
-    - {fileID: 11400000, guid: 2ce8a1d674a0ad8498b926bc0e4382da, type: 2}
+  - mapDifficulty:
     - {fileID: 11400000, guid: 51b05d3b0c8cf7b4fb6e4d3e55f8b39d, type: 2}
-    - {fileID: 11400000, guid: 53ddacb6f7d0134428e45b75c7b03c83, type: 2}
+    - {fileID: 11400000, guid: edf203955fa96fa4595e2307bf4a7a19, type: 2}
+  - mapDifficulty:
+    - {fileID: 11400000, guid: 50cddafcf0fe8c748824575a9c20ba63, type: 2}
+    - {fileID: 11400000, guid: c6ac0842d7083d14e854d5963ba357ac, type: 2}
+    - {fileID: 11400000, guid: 5c83d9677ca80264aa141a54fe9391a9, type: 2}

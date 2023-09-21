@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 1
   facingLeft: 1
-  attackDamage: 400
+  attackDamage: 100
   prefabBullet:
   - {fileID: 3723684081454105255, guid: f077c0c76bc2248409580ae78114593e, type: 3}
   - {fileID: 5664140832618945438, guid: b28a34fec02e66744a778baf3cc80239, type: 3}
   - {fileID: 5815234241358774613, guid: 96933aa1068633b4dabb5679e3482214, type: 3}
-  maxHealth: 1000
-  armor: 500
+  maxHealth: 500
+  armor: 100
   prefabMob:
   - {fileID: 2933347708801861945, guid: a651be13549af594fb5fc801670be50d, type: 3}
   - {fileID: 4758138868727326954, guid: 0567760e56db4534fbe1e74902055540, type: 3}
-  numberOfMob: 3
+  numberOfMob: 5
   intervalNextAction: 2

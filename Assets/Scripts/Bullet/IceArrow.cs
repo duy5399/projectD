@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using Photon.Realtime;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,12 +12,13 @@ public class IceArrow : Bullet
 
     public void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collider.gameObject.CompareTag("Player"))
+        if (collider.gameObject.layer == LayerMask.NameToLayer("Player"))
         {
-            collider.gameObject.GetComponent<PlayerCombat>().SlowEffect(3f);
+            collider.gameObject.GetComponent<PlayerCombat>().TakingDamage(damage, null);
+            collider.GetComponent<PlayerMovement>().SlowEffect(2f, 3f);
             Debug.Log("Hit player");
         }
-        if (collider.gameObject.CompareTag("Ground"))
+        if (collider.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
             Debug.Log("Hit ground");
         }

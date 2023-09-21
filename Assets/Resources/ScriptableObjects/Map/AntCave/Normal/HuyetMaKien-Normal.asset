@@ -13,27 +13,37 @@ MonoBehaviour:
   m_Name: HuyetMaKien-Normal
   m_EditorClassIdentifier: 
   mapIndex: 2
+  mapIdRewards: antCave_Normal
   mapName: "Huy\u1EC7t Ma Ki\u1EBFn"
   mapDescription: 
   mapImage: {fileID: 21300000, guid: 938be8dde2c333b4397107a8d2988bcf, type: 3}
-  sceneToLoad: {fileID: 102900000, guid: e6712cb08f8ccba4b99fa96421ffb351, type: 3}
-  mapMode: 1
+  sceneToLoad: 0
+  mapDifficulty: 1
   mapMiniBoss: []
   mapBoss:
   - bossPrefab: {fileID: 6734387472148442292, guid: d30e86e26561dd942bc6303d0808557c,
       type: 3}
     bossInfo: {fileID: 11400000, guid: a04ac3aab0f760d47aaf4ea9e52c2715, type: 2}
   mapRewards:
-  - item: {fileID: 11400000, guid: 51dcdd59bab5a4145b5053750fa51500, type: 2}
+  - itemName: hair_01
+    itemIcon: {fileID: 21300000, guid: c2c78db63b5c23643a6404fc10a6d7eb, type: 3}
+    itemTier: uncommon
     quantity: 1
     dropRate: 20
-  - item: {fileID: 11400000, guid: f131e3290ab81704695153a7f3df804e, type: 2}
+  - itemName: face_01
+    itemIcon: {fileID: 21300000, guid: c15b96dcd2ae295439690550cdfd2c58, type: 3}
+    itemTier: uncommon
     quantity: 1
     dropRate: 20
-  - item: {fileID: 11400000, guid: 35462d8408a8f4f48b350c5193c48bdb, type: 2}
+  - itemName: strengthStone_02
+    itemIcon: {fileID: 21300000, guid: f3733db56d7680844a8fb4169f0709f5, type: 3}
+    itemTier: uncommon
     quantity: 1
     dropRate: 20
-  - item: {fileID: 11400000, guid: 78c4e429d5878564cb38b6e47bfe6304, type: 2}
-    quantity: 1
+  - itemName: medal_01
+    itemIcon: {fileID: 21300000, guid: 5d05038f0d788194cb60ab124dc6d8ff, type: 3}
+    itemTier: legendary
+    quantity: 500
     dropRate: 40
   mapTime: 120
+  mapEnergy: 10

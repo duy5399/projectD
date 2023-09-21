@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b95f283f11b2214b82f0207c8d15897, type: 3}
+  m_Name: SkillFireSO_2
+  m_EditorClassIdentifier: 
+  strSkillID: SkillFireSO_2
+  sprSkillIcon: {fileID: 21300000, guid: 8ffed7e393b13ec47b790abf562d0f68, type: 3}
+  strSkillName: "V\xF2ng L\u1EEDa"
+  strSkillDescription: "Tri\u1EC7u h\u1ED3i v\xF2ng l\u1EEDa, t\u1ED3n t\u1EA1i trong
+    5s v\xE0 g\xE2y s\xE1t th\u01B0\u01A1ng b\u1EB1ng <b><color=#e3284a>11% ATK</color></b>
+    c\u1EE7a b\u1EA3n th\xE2n m\u1ED7i 1s cho k\u1EBB d\u1ECBch xung quanh."
+  strSkillLevel: 2
+  intMPCost: 30
+  strSkillType: active
+  floatCooldown: 10
+  floatEffectDuration: 5
+  goSkillEffect: {fileID: 3354208890966906172, guid: 83130e920a690ea498525b2c11c7095e,
+    type: 3}
+  floatFlatHealingHP: 0
+  floatPercentageHealingHP: 0
+  floatFlatMPRecovery: 0
+  floatPercentageMPRecovery: 0
+  floatFlatDamage: 0
+  floatPercentageDamage: 0.11
+  floatFlatAttack: 0
+  floatPercentageAttack: 0
+  floatFlatShield: 0
+  floatPercentageShield: 0

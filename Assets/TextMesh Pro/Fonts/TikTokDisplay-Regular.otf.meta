@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c5f619ba5ceb52644a9607e872fbf53b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TikTok Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2234fb95012cde04da82ad81bbd2e024, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

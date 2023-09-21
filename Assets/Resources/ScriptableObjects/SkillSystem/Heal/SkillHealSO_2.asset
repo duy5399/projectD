@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8c1de76127a14d4fb5bd9320b438a28, type: 3}
+  m_Name: SkillHealSO_2
+  m_EditorClassIdentifier: 
+  strSkillID: SkillHealSO_2
+  sprSkillIcon: {fileID: 21300000, guid: a0a32d3e586a66d4a9355e7c97156999, type: 3}
+  strSkillName: "H\u1ED3i HP"
+  strSkillDescription: "H\u1ED3i ph\u1EE5c ngay l\u1EADp t\u1EE9c <b><color=#49bd0e>8%
+    HP t\u1ED1i \u0111a</color></b> cho b\u1EA3n th\xE2n."
+  strSkillLevel: 2
+  intMPCost: 40
+  strSkillType: active
+  floatCooldown: 5
+  floatEffectDuration: 5
+  goSkillEffect: {fileID: 1843336276181299146, guid: b1e7146921c903b4c9f4a8ac5ca0d412,
+    type: 3}
+  floatFlatHealingHP: 0
+  floatPercentageHealingHP: 0.08
+  floatFlatMPRecovery: 0
+  floatPercentageMPRecovery: 0
+  floatFlatDamage: 0
+  floatPercentageDamage: 0
+  floatFlatAttack: 0
+  floatPercentageAttack: 0
+  floatFlatShield: 0
+  floatPercentageShield: 0

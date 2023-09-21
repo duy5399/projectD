@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30a2eb09c064fb44a82205f9cf85ea7, type: 3}
+  m_Name: SkillPartyMPRecoverySO_4
+  m_EditorClassIdentifier: 
+  strSkillID: SkillPartyMPRecoverySO_4
+  sprSkillIcon: {fileID: 21300000, guid: 1bde67d96e073744e9dfc5340d9a37c5, type: 3}
+  strSkillName: "B\xE0i Ca N\u0103ng L\u01B0\u1EE3ng"
+  strSkillDescription: "H\u1ED3i ph\u1EE5c cho t\u1EA5t c\u1EA3 \u0111\u1ED3ng \u0111\u1ED9i
+    l\u01B0\u1EE3ng MP t\u01B0\u01A1ng \u0111\u01B0\u01A1ng <b><color=#2c87bb>20%
+    MP t\u1ED1i \u0111a</color></b> c\u1EE7a m\u1EE5c ti\xEAu."
+  strSkillLevel: 4
+  intMPCost: 0
+  strSkillType: active
+  floatCooldown: 7
+  floatEffectDuration: 5
+  goSkillEffect: {fileID: 3636326249751884933, guid: ad856b7aa11412b43808218d6fb58a6e,
+    type: 3}
+  floatFlatHealingHP: 0
+  floatPercentageHealingHP: 0
+  floatFlatMPRecovery: 0
+  floatPercentageMPRecovery: 0.2
+  floatFlatDamage: 0
+  floatPercentageDamage: 0
+  floatFlatAttack: 0
+  floatPercentageAttack: 0
+  floatFlatShield: 0
+  floatPercentageShield: 0

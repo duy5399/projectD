@@ -1,0 +1,2152 @@
+fileFormatVersion: 2
+guid: c99537feb2943ea478deb50c56a2caa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: totem-buffAttack_0
+  - first:
+      213: 21300002
+    second: totem-buffAttack_1
+  - first:
+      213: 21300004
+    second: totem-buffAttack_2
+  - first:
+      213: 21300006
+    second: totem-buffAttack_3
+  - first:
+      213: 21300008
+    second: totem-buffAttack_4
+  - first:
+      213: 21300010
+    second: totem-buffAttack_5
+  - first:
+      213: 21300012
+    second: totem-buffAttack_6
+  - first:
+      213: 21300014
+    second: totem-buffAttack_7
+  - first:
+      213: 21300016
+    second: totem-buffAttack_8
+  - first:
+      213: 21300018
+    second: totem-buffAttack_9
+  - first:
+      213: 21300020
+    second: totem-buffAttack_10
+  - first:
+      213: 21300022
+    second: totem-buffAttack_11
+  - first:
+      213: 21300024
+    second: totem-buffAttack_12
+  - first:
+      213: 21300026
+    second: totem-buffAttack_13
+  - first:
+      213: 21300028
+    second: totem-buffAttack_14
+  - first:
+      213: 21300030
+    second: totem-buffAttack_15
+  - first:
+      213: 21300032
+    second: totem-buffAttack_16
+  - first:
+      213: 21300034
+    second: totem-buffAttack_17
+  - first:
+      213: 21300036
+    second: totem-buffAttack_18
+  - first:
+      213: 21300038
+    second: totem-buffAttack_19
+  - first:
+      213: 21300040
+    second: totem-buffAttack_20
+  - first:
+      213: 21300042
+    second: totem-buffAttack_21
+  - first:
+      213: 21300044
+    second: totem-buffAttack_22
+  - first:
+      213: 21300046
+    second: totem-buffAttack_23
+  - first:
+      213: 21300048
+    second: totem-buffAttack_24
+  - first:
+      213: 21300050
+    second: totem-buffAttack_25
+  - first:
+      213: 21300052
+    second: totem-buffAttack_26
+  - first:
+      213: 21300054
+    second: totem-buffAttack_27
+  - first:
+      213: 21300056
+    second: totem-buffAttack_28
+  - first:
+      213: 21300058
+    second: totem-buffAttack_29
+  - first:
+      213: 21300060
+    second: totem-buffAttack_30
+  - first:
+      213: 21300062
+    second: totem-buffAttack_31
+  - first:
+      213: 21300064
+    second: totem-buffAttack_32
+  - first:
+      213: 21300066
+    second: totem-buffAttack_33
+  - first:
+      213: 21300068
+    second: totem-buffAttack_34
+  - first:
+      213: 21300070
+    second: totem-buffAttack_35
+  - first:
+      213: 21300072
+    second: totem-buffAttack_36
+  - first:
+      213: 21300074
+    second: totem-buffAttack_37
+  - first:
+      213: 21300076
+    second: totem-buffAttack_38
+  - first:
+      213: 21300078
+    second: totem-buffAttack_39
+  - first:
+      213: 21300080
+    second: totem-buffAttack_40
+  - first:
+      213: 21300082
+    second: totem-buffAttack_41
+  - first:
+      213: 21300084
+    second: totem-buffAttack_42
+  - first:
+      213: 21300086
+    second: totem-buffAttack_43
+  - first:
+      213: 21300088
+    second: totem-buffAttack_44
+  - first:
+      213: 21300090
+    second: totem-buffAttack_45
+  - first:
+      213: 21300092
+    second: totem-buffAttack_46
+  - first:
+      213: 21300094
+    second: totem-buffAttack_47
+  - first:
+      213: 21300096
+    second: totem-buffAttack_48
+  - first:
+      213: 21300098
+    second: totem-buffAttack_49
+  - first:
+      213: 21300100
+    second: totem-buffAttack_50
+  - first:
+      213: 21300102
+    second: totem-buffAttack_51
+  - first:
+      213: 21300104
+    second: totem-buffAttack_52
+  - first:
+      213: 21300106
+    second: totem-buffAttack_53
+  - first:
+      213: 21300108
+    second: totem-buffAttack_54
+  - first:
+      213: 21300110
+    second: totem-buffAttack_55
+  - first:
+      213: 21300112
+    second: totem-buffAttack_56
+  - first:
+      213: 21300114
+    second: totem-buffAttack_57
+  - first:
+      213: 21300116
+    second: totem-buffAttack_58
+  - first:
+      213: 21300118
+    second: totem-buffAttack_59
+  - first:
+      213: 21300120
+    second: totem-buffAttack_60
+  - first:
+      213: 21300122
+    second: totem-buffAttack_61
+  - first:
+      213: 21300124
+    second: totem-buffAttack_62
+  - first:
+      213: 21300126
+    second: totem-buffAttack_63
+  - first:
+      213: 21300128
+    second: totem-buffAttack_64
+  - first:
+      213: 21300130
+    second: totem-buffAttack_65
+  - first:
+      213: 21300132
+    second: totem-buffAttack_66
+  - first:
+      213: 21300134
+    second: totem-buffAttack_67
+  - first:
+      213: 21300136
+    second: totem-buffAttack_68
+  - first:
+      213: 21300138
+    second: totem-buffAttack_69
+  - first:
+      213: 21300140
+    second: totem-buffAttack_70
+  - first:
+      213: 21300142
+    second: totem-buffAttack_71
+  - first:
+      213: 21300144
+    second: totem-buffAttack_72
+  - first:
+      213: 21300146
+    second: totem-buffAttack_73
+  - first:
+      213: 21300148
+    second: totem-buffAttack_74
+  - first:
+      213: 21300150
+    second: totem-buffAttack_75
+  - first:
+      213: 21300152
+    second: totem-buffAttack_76
+  - first:
+      213: 21300154
+    second: totem-buffAttack_77
+  - first:
+      213: 21300156
+    second: totem-buffAttack_78
+  - first:
+      213: 21300158
+    second: totem-buffAttack_79
+  - first:
+      213: 21300160
+    second: totem-buffAttack_80
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totem-buffAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7b93aa2157044da4271b4fa88ecec
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f99a227383bf44bb113219e83f201
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c6f0037fb5c73489283503b9de1296
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd30e027b617aa449951a55858edb1b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad4f1e340a82042a039627c106629f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73b5445253ad94396f8c43c4d1cc40
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1071002e604b342a22c0cd32eb430a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a318ee0cc04748aa67d7ca7d71800
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1712
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d14a2a7d0c88044bc8eb2b1462cdcf
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193dc0427b126754dbe28146aab79d16
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ed5afeb19dea45b57daad5d51e7a7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa198001d710684d9fdcf182245e2e3
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d87f0abc6a4704fab39f29b9332a13
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82cf78d60853647a93d0ee8ea8dac1
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207a2f70df767e4fb7ed6fccb0f9139
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba3a221aa275a346b7fdaf2ab663197
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f10f7fa475bf5489cdbb3701619614
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_17
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1498
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c5c076eef1504cb99814c5d6998bf
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a8f47cafdbfa4eb87c672eb8f6dfe
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38134d2e00fed97459a3ffb5158d26a4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ca8efb06e3f1408f1639569a45fc3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce6a0829dff6ae4bbcf65dac1fa4eaf
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2e90f88a08c84ab4273646ed2c90b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2333347c39c245a461382dd46c93c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_24
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852f78ecf120815458d9ef6e85764a59
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_25
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0415df8004a3ccd40b369bd92f276a93
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_26
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1284
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b308c589068f894397ca3b18d131396
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b003d7c856974381bcc53bf67f41f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e317f3d9793a44fb38a9943e7bcc41
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c911c5779b33d014c85f3a3f35f07b33
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_30
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9fcdc25ba40d34ca2976de58b07c57
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_31
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda89625b63ab145bfa65d1a816044b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_32
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78cf8823434df34cb3dbac845da4aa5
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_33
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b57bfb7e5d52594b924972151bdcbe8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_34
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548e270846b2b142be1205a592e59dd
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_35
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1070
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd166a4c5f3504782ce441aff5fc8f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f8f28f2b1c0e46b341ae5f94028de
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d54bb58c64a649aa0ef8b9359bc06
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_38
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b63e3787258d3429ff9567fa95a286
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fcf137fc6423b43860fb20cccb1917
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_40
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ea6c1c2ce97ed49982d6eefa232d98
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_41
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51bf33c87407d4da2a0adf063df5af
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_42
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f0072ab8eb7446832cc930ef30ef3
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_43
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28900bad83daa454a91207b3974bb057
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_44
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 856
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953c1ccedd67b2843bdbf71284e3e2a9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c03d83df9c3e243829f8a816396dcb
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_46
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3557dd5490e8d1346ba9520ea420bc10
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c689c5562afda20489afb0f8198a04a5
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_48
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f26ca49de84ebf48a3b0baaf91d762b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_49
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9705ed04e0ea43816a6abc9184707
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_50
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd9ff535e0b2dd4f9a5b3e885ca119a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_51
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cbf59d0abdc1c4389927a1e526e9e1
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_52
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ef34e006287542a307cf10e986db4
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_53
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 642
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a13a34247ea14e8fd782d9d1fb0b0
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c01c721fbecf43ba62cb48f5ff174
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_55
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53eeffff8c46a640bb06a8ec139e30b
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_56
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606aa6d4563b7a14fbe05c1213ff3613
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_57
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e751deb5dfa94ebd8d8f8b6fcda93
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_58
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0c554bff23b747a9c58e9aefa452a
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_59
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af18ee1915eda42a7fa10d452978b5
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_60
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce0d8fe09e97c4fa14c253821179c9
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_61
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d4963f95488344b43006287234bc5
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_62
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 428
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb655f646061140bc41f32333de3e6
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a479a8327fbf49aedf10a5a8bfb51
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_64
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3eff5676fdedd42939b345f885af28
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_65
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69d0a10b6a1d34ca003f1621357651
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_66
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185aa96dd52f174ebc8448b43ccbf72
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_67
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb275e90131b097469d1a4188c620325
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_68
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df4ee96455683e4694b1e02b1bc6e3a
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_69
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36483c1f683a0f409a2f0ebc48e796a
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_70
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de13d84618dc845b2ce1b7c24f5394
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_71
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 214
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17fc7cd2383a7f418459fa9b863dec6
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bcb08363e7f1949acaad1ca0554fc6
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0976c1050ba014680cdaf9884c9c16
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_74
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81b6a59cc5ff44db779e021f0274be
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_75
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988625a127c9434598d7ea40d312a3c
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_76
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807be3add7aabd49803f37980697574
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_77
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f0123ad75e1a47bb4a34741e89612
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_78
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7eaad8ef5947e4bb9bf7cbf3d72dda
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_79
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a391965194884fa7188e6fd46709c
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-buffAttack_80
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 365
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10398ec1a1898d4caba6263c3e0853f
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 493e5db14237f9c40a0c136ebe308310
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      totem-buffAttack_0: 21300000
+      totem-buffAttack_1: 21300002
+      totem-buffAttack_10: 21300020
+      totem-buffAttack_11: 21300022
+      totem-buffAttack_12: 21300024
+      totem-buffAttack_13: 21300026
+      totem-buffAttack_14: 21300028
+      totem-buffAttack_15: 21300030
+      totem-buffAttack_16: 21300032
+      totem-buffAttack_17: 21300034
+      totem-buffAttack_18: 21300036
+      totem-buffAttack_19: 21300038
+      totem-buffAttack_2: 21300004
+      totem-buffAttack_20: 21300040
+      totem-buffAttack_21: 21300042
+      totem-buffAttack_22: 21300044
+      totem-buffAttack_23: 21300046
+      totem-buffAttack_24: 21300048
+      totem-buffAttack_25: 21300050
+      totem-buffAttack_26: 21300052
+      totem-buffAttack_27: 21300054
+      totem-buffAttack_28: 21300056
+      totem-buffAttack_29: 21300058
+      totem-buffAttack_3: 21300006
+      totem-buffAttack_30: 21300060
+      totem-buffAttack_31: 21300062
+      totem-buffAttack_32: 21300064
+      totem-buffAttack_33: 21300066
+      totem-buffAttack_34: 21300068
+      totem-buffAttack_35: 21300070
+      totem-buffAttack_36: 21300072
+      totem-buffAttack_37: 21300074
+      totem-buffAttack_38: 21300076
+      totem-buffAttack_39: 21300078
+      totem-buffAttack_4: 21300008
+      totem-buffAttack_40: 21300080
+      totem-buffAttack_41: 21300082
+      totem-buffAttack_42: 21300084
+      totem-buffAttack_43: 21300086
+      totem-buffAttack_44: 21300088
+      totem-buffAttack_45: 21300090
+      totem-buffAttack_46: 21300092
+      totem-buffAttack_47: 21300094
+      totem-buffAttack_48: 21300096
+      totem-buffAttack_49: 21300098
+      totem-buffAttack_5: 21300010
+      totem-buffAttack_50: 21300100
+      totem-buffAttack_51: 21300102
+      totem-buffAttack_52: 21300104
+      totem-buffAttack_53: 21300106
+      totem-buffAttack_54: 21300108
+      totem-buffAttack_55: 21300110
+      totem-buffAttack_56: 21300112
+      totem-buffAttack_57: 21300114
+      totem-buffAttack_58: 21300116
+      totem-buffAttack_59: 21300118
+      totem-buffAttack_6: 21300012
+      totem-buffAttack_60: 21300120
+      totem-buffAttack_61: 21300122
+      totem-buffAttack_62: 21300124
+      totem-buffAttack_63: 21300126
+      totem-buffAttack_64: 21300128
+      totem-buffAttack_65: 21300130
+      totem-buffAttack_66: 21300132
+      totem-buffAttack_67: 21300134
+      totem-buffAttack_68: 21300136
+      totem-buffAttack_69: 21300138
+      totem-buffAttack_7: 21300014
+      totem-buffAttack_70: 21300140
+      totem-buffAttack_71: 21300142
+      totem-buffAttack_72: 21300144
+      totem-buffAttack_73: 21300146
+      totem-buffAttack_74: 21300148
+      totem-buffAttack_75: 21300150
+      totem-buffAttack_76: 21300152
+      totem-buffAttack_77: 21300154
+      totem-buffAttack_78: 21300156
+      totem-buffAttack_79: 21300158
+      totem-buffAttack_8: 21300016
+      totem-buffAttack_80: 21300160
+      totem-buffAttack_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

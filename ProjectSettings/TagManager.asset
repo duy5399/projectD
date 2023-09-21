@@ -19,6 +19,11 @@ TagManager:
   - MobB
   - MobA
   - MiniBoss
+  - Totem
+  - DeathZone
+  - PlayerUIController
+  - MapInfo
+  - AudioManager
   layers:
   - Default
   - TransparentFX
@@ -33,7 +38,7 @@ TagManager:
   - Mob
   - CantAttack
   - Player
-  - 
+  - Totem
   - 
   - 
   - 

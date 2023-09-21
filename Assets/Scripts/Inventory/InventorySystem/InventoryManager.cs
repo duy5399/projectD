@@ -1,129 +1,224 @@
-﻿using System.Collections;
+﻿using PlayFab;
+using PlayFab.ClientModels;
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InventoryManager : BagManager
+public class InventoryManager : MonoBehaviour
 {
     #region Singleton
     public static InventoryManager instance { get; private set; }
     void Awake()
     {
         if (instance != null && instance != this)
-        {
             Destroy(this);
-        }
         else
-        {
             instance = this;
-        }
+        //LoadDataInventory();
+       // GetInventoryUser();
     }
     #endregion
-
-    #region Inventory
-
-    [SerializeField] private int space = 200;
-    [SerializeField] private string savePathEquipmentInventory = "/inventoryEquipment.lsd";
-    [SerializeField] private string savePathMaterialInventory = "/inventoryMaterial.lsd";
 
     [SerializeField] private Transform equipmentParent; //Canvas - InventorySystem - Equipments - Viewport - InventoryEquipment
     [SerializeField] private Transform materialParent; //Canvas - InventorySystem - Marterials - Viewport - InventoryMaterial
 
-    [SerializeField] private GameObject inventorySlotEquipment; //Resources - Prefab - Inventory - InventorySlotEquipment
-    [SerializeField] private GameObject inventorySlotMaterial; //Resources - Prefab - Inventory - InventorySlotMaterial
-
-    private Dictionary<InventoryEquipmentSlot, GameObject> inventoryEquipmentSlotDisplayed = new Dictionary<InventoryEquipmentSlot, GameObject>();
-    private Dictionary<InventoryMaterialSlot, GameObject> inventoryMaterialSlotDisplayed = new Dictionary<InventoryMaterialSlot, GameObject>();
-
-    //thêm trang bị hoặc tài nguyên vào kho đồ
-    public override bool AddItem(ItemSO _item)
+    private void OnEnable()
     {
-        if (inventorySO.listEquipmentSO_.equipments.Count + inventorySO.listMaterialSO_.materials.Count  > space)
-        {
-            Debug.Log("Not enough space");
-            return false;
-        }
-        inventorySO.AddItem(_item, 1);
-        return true;
-    }
-
-    //xóa trang bị hoặc tài nguyên ra khỏi kho đồ
-    public override bool RemoveItem(ItemSO _item)
-    {
-
-        inventorySO.RemoveItem(_item, 1);
-        return true;
+        GetInventoryUser();
+        GetPlayerStats();
+        GetVirtualCurrencyUser();
     }
 
     //set parent cho inventory (mở trang bị nhân vật thì củn hiển thị kho đồ và set parent là CharacterSystem)
     public void SetParentInventory(Transform inventoryParent)
     {
         transform.SetParent(inventoryParent);
-        transform.gameObject.SetActive(true);
+        transform.gameObject.SetActive(!transform.gameObject.activeSelf);
     }
 
-    //reset parent (set parent = canvas)
-    public void ResetParentInventory(Transform inventoryParent)
+    //--------------------------------------------------------------------------------------
+    private Dictionary<string, ItemInstance> userInventory = new Dictionary<string, ItemInstance>();
+    private Dictionary<string, int> userVirtualCurrency = new Dictionary<string, int>();
+    public Dictionary<string, int> userVirtualCurrency_ => userVirtualCurrency;
+    private Dictionary<string, VirtualCurrencyRechargeTime> userVirtualCurrencyRechargeTime = new Dictionary<string, VirtualCurrencyRechargeTime>();
+    public Dictionary<string, VirtualCurrencyRechargeTime> userVirtualCurrencyRechargeTime_ => userVirtualCurrencyRechargeTime;
+
+    private Dictionary<string, GameObject> inventorySlotDisplayed = new Dictionary<string, GameObject>();
+
+    [SerializeField] private GameObject inventorySlotPrefab;
+
+    [SerializeField] private Transform tf_currency;
+
+
+    public void GetInventoryUser()
     {
-        transform.SetParent(inventoryParent);
-        transform.gameObject.SetActive(false);
+        AsyncLoadingScene.instance.LoadingScreen(true);
+        GetUserInventoryRequest request = new GetUserInventoryRequest{};
+        PlayFabClientAPI.GetUserInventory(request,
+            result =>
+            {
+                userInventory.Clear();
+                foreach (var item in result.Inventory)
+                {
+                    
+                    if (!userInventory.ContainsKey(item.ItemInstanceId))
+                    {
+                        userInventory.Add(item.ItemInstanceId, item);
+                        Debug.Log("item.ItemInstanceId: " + item.ItemInstanceId + " - " + "item.DisplayName" + item.DisplayName);
+                    }
+                    else
+                    {
+                        userInventory[item.ItemInstanceId] = item;
+                    }
+                }
+                UpdateUserInventory();
+                AsyncLoadingScene.instance.LoadingScreen(false);
+            },
+            error => {
+                Debug.LogError(error);
+                AsyncLoadingScene.instance.LoadingScreen(false);
+            });
     }
 
-    //cập nhật lại hình ảnh, số lượng vật phẩm hiển thị trong kho đồ
-    public void UpdateUIInventory()
+    public void GetPlayerStats()
     {
-        for(int i = 0; i < inventorySO.listEquipmentSO_.equipments.Count; i++)
+        ExecuteCloudScriptRequest request = new ExecuteCloudScriptRequest
+        {
+            FunctionName = "getUserData",
+            FunctionParameter = new { keys = "playerStats" }
+        };
+        PlayFabClientAPI.ExecuteCloudScript(request,
+            result =>
+            {
+                Debug.Log("GetPlayerStats thành công: " + result.FunctionResult);
+                var playerStats = PlayFab.PluginManager.GetPlugin<ISerializerPlugin>(PluginContract.PlayFab_Serializer).DeserializeObject<Dictionary<string, int>>(result.FunctionResult.ToString());
+                try
+                {
+                    CharacterEquipmentManager.instance.DisplayPlayerStats(playerStats["atk"], playerStats["def"], playerStats["hp"], playerStats["luk"]);
+                }
+                catch
+                {
+                    Debug.Log("KDisplayPlayerStats lỗi");
+                }
+            },
+            error =>
+            {
+                Debug.Log("GetPlayerStats thất bại!" + error.Error);
+            });
+    }
+
+    public void GetVirtualCurrencyUser()
+    {
+        GetUserInventoryRequest request = new GetUserInventoryRequest { };
+        PlayFabClientAPI.GetUserInventory(request,
+            result =>
+            {
+                userVirtualCurrency = result.VirtualCurrency;
+                userVirtualCurrencyRechargeTime = result.VirtualCurrencyRechargeTimes;
+                tf_currency.GetChild(0).GetChild(0).GetComponent<TextMeshProUGUI>().text = string.Format("{0:0,0}", result.VirtualCurrency["GD"]);
+                tf_currency.GetChild(1).GetChild(0).GetComponent<TextMeshProUGUI>().text = string.Format("{0:0,0}", result.VirtualCurrency["MD"]);
+            },
+            error => {
+                Debug.LogError(error);
+            });
+    }
+
+
+    public void UpdateUserInventory()
+    {
+        foreach (var item in userInventory)
         {
             //dùng Dictionary để kiểm tra các vật phẩm đã hiển thị, nếu có key tồn tại (hiển thị rồi) thì chỉ cần cập nhật lại số lượng
-            if (inventoryEquipmentSlotDisplayed.ContainsKey(inventorySO.listEquipmentSO_.equipments[i]))
+            if (inventorySlotDisplayed.ContainsKey(item.Key))
             {
-                inventoryEquipmentSlotDisplayed[inventorySO.listEquipmentSO_.equipments[i]].GetComponentInChildren<TextMeshProUGUI>().text = inventorySO.listEquipmentSO_.equipments[i].quantity_.ToString();
+                if(item.Value.ItemClass == "Equipment")
+                {
+                    var inforBasic02 = PlayFab.PluginManager.GetPlugin<ISerializerPlugin>(PluginContract.PlayFab_Serializer).DeserializeObject<Dictionary<string, string>>(item.Value.CustomData["inforBasic02"]);
+                    if (inventorySlotDisplayed[item.Key] == null && inforBasic02["equipped"] == "0")
+                    {
+                        GameObject obj = Instantiate(inventorySlotPrefab, equipmentParent);
+                        obj.GetComponent<InventorySlotController>().LoadInforItemSlot(item.Value);
+                        inventorySlotDisplayed[item.Key] = obj;
+                    }
+                }
+                else
+                {
+                    if (inventorySlotDisplayed[item.Key] == null)
+                    {
+                        GameObject obj = Instantiate(inventorySlotPrefab, materialParent);
+                        obj.GetComponent<InventorySlotController>().LoadInforItemSlot(item.Value);
+                        inventorySlotDisplayed[item.Key] = obj;
+                    }
+                    else
+                    {
+                        inventorySlotDisplayed[item.Key].GetComponentInChildren<TextMeshProUGUI>().text = item.Value.RemainingUses.ToString();
+                    }
+                    
+                }
             }
             else
             {
-                GameObject obj = Instantiate(inventorySlotEquipment, equipmentParent);
-                obj.GetComponent<InventorySlotEquipmentController>().AddItemInfo(inventorySO.listEquipmentSO_.equipments[i], inventorySO.listEquipmentSO_.equipments[i].quantity_);
-                inventoryEquipmentSlotDisplayed.Add(inventorySO.listEquipmentSO_.equipments[i], obj);
+                if (item.Value.ItemClass == "Equipment")
+                {
+                    GameObject obj = Instantiate(inventorySlotPrefab, equipmentParent);
+                    obj.GetComponent<InventorySlotController>().LoadInforItemSlot(item.Value);
+                    var inforBasic02 = PlayFab.PluginManager.GetPlugin<ISerializerPlugin>(PluginContract.PlayFab_Serializer).DeserializeObject<Dictionary<string, string>>(item.Value.CustomData["inforBasic02"]);
+                    inventorySlotDisplayed.Add(item.Key, obj);
+                    if (inforBasic02["equipped"] == "1")
+                    {
+                        GameObject characterSystemInterface = GameObject.Find("CharacterSystemInterface");
+                        if(characterSystemInterface != null && characterSystemInterface.activeInHierarchy)
+                        {
+                            obj.GetComponent<InventorySlotController>().EquipItem();
+                            inventorySlotDisplayed[item.Key] = null;
+                        }
+                        else
+                        {
+                            Destroy(obj);
+                            inventorySlotDisplayed.Remove(item.Key);
+                        }
+                    }
+                }
+                else
+                {
+                    GameObject obj = Instantiate(inventorySlotPrefab, materialParent);
+                    obj.GetComponent<InventorySlotController>().LoadInforItemSlot(item.Value);
+                    inventorySlotDisplayed.Add(item.Key, obj);
+                }         
             }
         }
-        for (int i = 0; i < inventorySO.listMaterialSO_.materials.Count; i++)
+    }
+
+    public void AddItem(ItemInstance itemInstance)
+    {
+        if (!inventorySlotDisplayed.ContainsKey(itemInstance.ItemInstanceId) || inventorySlotDisplayed[itemInstance.ItemInstanceId] == null)
         {
-            if (inventoryMaterialSlotDisplayed.ContainsKey(inventorySO.listMaterialSO_.materials[i]))
+            if (itemInstance.ItemClass == "Equipment")
             {
-                inventoryMaterialSlotDisplayed[inventorySO.listMaterialSO_.materials[i]].GetComponent<InventorySlotMaterialController>().SetQuantity(inventorySO.listMaterialSO_.materials[i].quantity_);
-                Debug.Log("inventoryMaterialSlotDisplayed.ContainsKey: " + i);
-                inventoryMaterialSlotDisplayed[inventorySO.listMaterialSO_.materials[i]].GetComponentInChildren<TextMeshProUGUI>().text = inventorySO.listMaterialSO_.materials[i].quantity_.ToString();
+                GameObject obj = Instantiate(inventorySlotPrefab, equipmentParent);
+                obj.GetComponent<InventorySlotController>().LoadInforItemSlot(itemInstance);
+                var inforBasic02 = PlayFab.PluginManager.GetPlugin<ISerializerPlugin>(PluginContract.PlayFab_Serializer).DeserializeObject<Dictionary<string, string>>(itemInstance.CustomData["inforBasic02"]);
+                inventorySlotDisplayed[itemInstance.ItemInstanceId] = obj;
             }
             else
             {
-                GameObject obj = Instantiate(inventorySlotMaterial, materialParent);
-                obj.GetComponent<InventorySlotMaterialController>().AddItemInfo(inventorySO.listMaterialSO_.materials[i], inventorySO.listMaterialSO_.materials[i].quantity_);
-                inventoryMaterialSlotDisplayed.Add(inventorySO.listMaterialSO_.materials[i], obj);
+                GameObject obj = Instantiate(inventorySlotPrefab, materialParent);
+                obj.GetComponent<InventorySlotController>().LoadInforItemSlot(itemInstance);
+                //obj.GetComponent<InventorySlotController>().LoadComponents();
+                inventorySlotDisplayed[itemInstance.ItemInstanceId] = obj;
             }
         }
-    }
-    #endregion
-
-    public void OnApplicationQuit()
-    {
-        //inventorySO.listItemSO_.items.Clear();
-        inventorySO.listEquipmentSO_.equipments.Clear();
-        inventorySO.listMaterialSO_.materials.Clear();
+        else
+        {
+            inventorySlotDisplayed[itemInstance.ItemInstanceId].GetComponentInChildren<TextMeshProUGUI>().text = (int.Parse(inventorySlotDisplayed[itemInstance.ItemInstanceId].GetComponentInChildren<TextMeshProUGUI>().text) + 1).ToString();
+        }
     }
 
-    void Update()
+    public void RemoveInventorySlotDisplayed(ItemInstance itemInstance)
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            inventorySO.SaveEquipment(savePathEquipmentInventory);
-            inventorySO.SaveMaterial(savePathMaterialInventory);
-        }
-        if (Input.GetKeyDown(KeyCode.KeypadEnter))
-        {
-            inventorySO.LoadEquipment(savePathEquipmentInventory);
-            inventorySO.LoadMaterial(savePathMaterialInventory);
-            UpdateUIInventory();
-        }
+        //inventorySlotDisplayed.Remove(itemInstance);
     }
 }
+

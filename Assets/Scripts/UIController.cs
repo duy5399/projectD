@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Photon.Pun;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using UnityEditor.VersionControl;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -58,25 +59,27 @@ public class UIController : MonoBehaviour
         }
         else
         {
-            Debug.Log("No child");
+            //Debug.Log("No child");
         }
     }
 
-    void Start()
+    public void SetInforBoss(GameObject _boss)
     {
-        txt_name.text = GameObject.FindGameObjectWithTag("Boss").transform.name;
-        var iconBoss = Resources.Load<Sprite>("Sprites/IconBoss/"+txt_name.text+"/"+txt_name.text+"_icon");
-        Debug.Log("Sprites/IconBoss/" + txt_name.text + "/" + txt_name.text + "_icon");
+        txt_name.text = _boss.name;
+        var iconBoss = Resources.Load<Sprite>("Sprites/IconBoss/" + txt_name.text + "/" + txt_name.text + "_icon");
         img_icon.sprite = iconBoss;
+        SetHealth(_boss.GetComponent<BossController>().currentHealth_, _boss.GetComponent<BossController>().maxHealth_);
     }
 
     //hiển thị máu của BOSS
-    public void SetHealth(int health, int maxHealth)
+    public void SetHealth(int _health, int _maxHealth)
     {
-        healthbar.maxValue = maxHealth;
-        healthbar.value = health;
-        //txt_hp.text = Math.Round((double)health / maxHealth * 100) > 0 ? Math.Round((double)health / maxHealth * 100) + "%" : "0%";
-        txt_hp.text = health + "/" + maxHealth;
+        healthbar.maxValue = _maxHealth;
+        healthbar.value = _health;
+        txt_hp.text = Math.Round((double)_health / _maxHealth * 100) > 0 ? Math.Round((double)_health / _maxHealth * 100) + "%" : "0%";
+        //txt_hp.text = _health + "/" + _maxHealth;
+
+        //Debug.Log("SetHealth(_boss.GetComponent<BossController>().currentHealth_, _boss.GetComponent<BossController>().maxHealth_);");
     }
 
     #region Introduce BOSS
@@ -139,8 +142,10 @@ public class UIController : MonoBehaviour
     //nút Home
     public void onClickHomeBtn()
     {
+        AudioManager.instance.Destroy();
         MapInfo.instance.Destroy();
-        SceneManager.LoadScene("Homepage");
+        PhotonNetwork.LeaveRoom();
+        PhotonNetwork.LoadLevel("Homepage");
     }
 
     //nút Chơi lại
@@ -159,7 +164,8 @@ public class UIController : MonoBehaviour
     //nút Thoát game
     public void onClickExitBtn()
     {
-        Debug.Log("Application.Quit()");
+        //Debug.Log("Application.Quit()");
+
         Application.Quit();
     }
     #endregion

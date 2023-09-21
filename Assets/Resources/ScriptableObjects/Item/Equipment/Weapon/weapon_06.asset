@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b257e895728aa4c8361cbe447ad312, type: 3}
+  m_Name: weapon_06
+  m_EditorClassIdentifier: 
+  itemID: weapon_06
+  itemType: 0
+  itemIcon: {fileID: 21300000, guid: ec1419b00e0b57843a7005d1a6316e80, type: 3}
+  itemName: "VIP - B\xFAa Minotaure"
+  itemTier: 0
+  itemDescription: "M\u1ED9t v\u0169 kh\xED c\u1EF1c k\xEC qu\xFD hi\u1EBFm"
+  maxStackSize: 1
+  itemSlot: 0
+  itemShow: {fileID: 21300000, guid: ec1419b00e0b57843a7005d1a6316e80, type: 3}
+  itemStats: []
+  canUpgrade: 1
+  itemStrength: 0
+  itemStrengthImg: {fileID: 21300000, guid: 7168f9055db4c5a4485396a59006994a, type: 3}

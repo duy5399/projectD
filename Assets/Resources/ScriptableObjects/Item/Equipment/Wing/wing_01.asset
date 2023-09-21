@@ -22,8 +22,8 @@ MonoBehaviour:
     nh\u1EEFng n\u0103m 80"
   maxStackSize: 1
   itemSlot: 9
-  itemShow: {fileID: 21300144, guid: 49c8f399d76911b4a9fa2f3980f3257f, type: 3}
+  itemShow: {fileID: 21300000, guid: add2a07ad6ef709439d326569256d8ff, type: 3}
   itemStats: []
   canUpgrade: 1
   itemStrength: 0
-  itemStrengthImg: {fileID: 21300000, guid: 1f44c2cbb82680a4d9ecc7471ecef8d6, type: 3}
+  itemStrengthImg: {fileID: 21300000, guid: 7168f9055db4c5a4485396a59006994a, type: 3}

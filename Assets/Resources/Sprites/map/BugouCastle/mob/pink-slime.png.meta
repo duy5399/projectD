@@ -1,0 +1,2477 @@
+fileFormatVersion: 2
+guid: 303c44bf8af9310499948c2a51177a14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: pink-slime_0
+  - first:
+      213: 21300002
+    second: pink-slime_1
+  - first:
+      213: 21300004
+    second: pink-slime_2
+  - first:
+      213: 21300006
+    second: pink-slime_3
+  - first:
+      213: 21300008
+    second: pink-slime_4
+  - first:
+      213: 21300010
+    second: pink-slime_5
+  - first:
+      213: 21300012
+    second: pink-slime_6
+  - first:
+      213: 21300014
+    second: pink-slime_7
+  - first:
+      213: 21300016
+    second: pink-slime_8
+  - first:
+      213: 21300018
+    second: pink-slime_9
+  - first:
+      213: 21300020
+    second: pink-slime_10
+  - first:
+      213: 21300022
+    second: pink-slime_11
+  - first:
+      213: 21300024
+    second: pink-slime_12
+  - first:
+      213: 21300026
+    second: pink-slime_13
+  - first:
+      213: 21300028
+    second: pink-slime_14
+  - first:
+      213: 21300030
+    second: pink-slime_15
+  - first:
+      213: 21300032
+    second: pink-slime_16
+  - first:
+      213: 21300034
+    second: pink-slime_17
+  - first:
+      213: 21300036
+    second: pink-slime_18
+  - first:
+      213: 21300038
+    second: pink-slime_19
+  - first:
+      213: 21300040
+    second: pink-slime_20
+  - first:
+      213: 21300042
+    second: pink-slime_21
+  - first:
+      213: 21300044
+    second: pink-slime_22
+  - first:
+      213: 21300046
+    second: pink-slime_23
+  - first:
+      213: 21300048
+    second: pink-slime_24
+  - first:
+      213: 21300050
+    second: pink-slime_25
+  - first:
+      213: 21300052
+    second: pink-slime_26
+  - first:
+      213: 21300054
+    second: pink-slime_27
+  - first:
+      213: 21300056
+    second: pink-slime_28
+  - first:
+      213: 21300058
+    second: pink-slime_29
+  - first:
+      213: 21300060
+    second: pink-slime_30
+  - first:
+      213: 21300062
+    second: pink-slime_31
+  - first:
+      213: 21300064
+    second: pink-slime_32
+  - first:
+      213: 21300066
+    second: pink-slime_33
+  - first:
+      213: 21300068
+    second: pink-slime_34
+  - first:
+      213: 21300070
+    second: pink-slime_35
+  - first:
+      213: 21300072
+    second: pink-slime_36
+  - first:
+      213: 21300074
+    second: pink-slime_37
+  - first:
+      213: 21300076
+    second: pink-slime_38
+  - first:
+      213: 21300078
+    second: pink-slime_39
+  - first:
+      213: 21300080
+    second: pink-slime_40
+  - first:
+      213: 21300082
+    second: pink-slime_41
+  - first:
+      213: 21300084
+    second: pink-slime_42
+  - first:
+      213: 21300086
+    second: pink-slime_43
+  - first:
+      213: 21300088
+    second: pink-slime_44
+  - first:
+      213: 21300090
+    second: pink-slime_45
+  - first:
+      213: 21300092
+    second: pink-slime_46
+  - first:
+      213: 21300094
+    second: pink-slime_47
+  - first:
+      213: 21300096
+    second: pink-slime_48
+  - first:
+      213: 21300098
+    second: pink-slime_49
+  - first:
+      213: 21300100
+    second: pink-slime_50
+  - first:
+      213: 21300102
+    second: pink-slime_51
+  - first:
+      213: 21300104
+    second: pink-slime_52
+  - first:
+      213: 21300106
+    second: pink-slime_53
+  - first:
+      213: 21300108
+    second: pink-slime_54
+  - first:
+      213: 21300110
+    second: pink-slime_55
+  - first:
+      213: 21300112
+    second: pink-slime_56
+  - first:
+      213: 21300114
+    second: pink-slime_57
+  - first:
+      213: 21300116
+    second: pink-slime_58
+  - first:
+      213: 21300118
+    second: pink-slime_59
+  - first:
+      213: 21300120
+    second: pink-slime_60
+  - first:
+      213: 21300122
+    second: pink-slime_61
+  - first:
+      213: 21300124
+    second: pink-slime_62
+  - first:
+      213: 21300126
+    second: pink-slime_63
+  - first:
+      213: 21300128
+    second: pink-slime_64
+  - first:
+      213: 21300130
+    second: pink-slime_65
+  - first:
+      213: 21300132
+    second: pink-slime_66
+  - first:
+      213: 21300134
+    second: pink-slime_67
+  - first:
+      213: 21300136
+    second: pink-slime_68
+  - first:
+      213: 21300138
+    second: pink-slime_69
+  - first:
+      213: 21300140
+    second: pink-slime_70
+  - first:
+      213: 21300142
+    second: pink-slime_71
+  - first:
+      213: 21300144
+    second: pink-slime_72
+  - first:
+      213: 21300146
+    second: pink-slime_73
+  - first:
+      213: 21300148
+    second: pink-slime_74
+  - first:
+      213: 21300150
+    second: pink-slime_75
+  - first:
+      213: 21300152
+    second: pink-slime_76
+  - first:
+      213: 21300154
+    second: pink-slime_77
+  - first:
+      213: 21300156
+    second: pink-slime_78
+  - first:
+      213: 21300158
+    second: pink-slime_79
+  - first:
+      213: 21300160
+    second: pink-slime_80
+  - first:
+      213: 21300162
+    second: pink-slime_81
+  - first:
+      213: 21300164
+    second: pink-slime_82
+  - first:
+      213: 21300166
+    second: pink-slime_83
+  - first:
+      213: 21300168
+    second: pink-slime_84
+  - first:
+      213: 21300170
+    second: pink-slime_85
+  - first:
+      213: 21300172
+    second: pink-slime_86
+  - first:
+      213: 21300174
+    second: pink-slime_87
+  - first:
+      213: 21300176
+    second: pink-slime_88
+  - first:
+      213: 21300178
+    second: pink-slime_89
+  - first:
+      213: 21300180
+    second: pink-slime_90
+  - first:
+      213: 21300182
+    second: pink-slime_91
+  - first:
+      213: 21300184
+    second: pink-slime_92
+  - first:
+      213: 21300186
+    second: pink-slime_93
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pink-slime_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1729.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073f914e732b2db439245bb49685a912
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1729.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3111a07ac6fb82498ad0295d65a57dc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1729.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd889524199984bab64c8bfc3c0eb4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1729.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3f58a0d913c344693721085b3aba0d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555da00f8dd1e1145b666e876d48fea9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c401e3f4e5414c8f640eeb7c15474
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62261383f5914944cabf6a5b4d5f8bdb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4043976f60c3958499ed7872840af50a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54632a34ada8c64aa0d05bc3a7f0b7e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_9
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a5530f2444ea429c47beca8fffb90
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_10
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9e0afdaf121ef439129939c41ff8cd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_11
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a74751b8000c5499b3ba1a1eaf035b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c294d29dcc855d44a6d39b16600f096
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_13
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1537.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3028acfe8d8b3469c582a8aa0e7f8f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c6327afba6f8046ad45d16daa83d7c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85215621e593ee5498a0789fdabe65f6
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ccb5fdaf41bd43a98ca614c18607b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44106bbd47b2ee4292f4d851dc9c774
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de27a32a560ef14590b44b770131051
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_19
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0da8a10df4b3e4698e39eb3b193309
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_20
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d07bfbf6ee954141aacb6d7be44ecaa
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_21
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1b964a5a66d74682b258f3773166d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_22
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3b7d967a7fe94dbd774e08b6cd59a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_23
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1345.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da0d3c51e41e54c9e6ca1204fbec3c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bce5f783cbcb54c8a0b6470dbd4d25
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea965b46ca47114dbf4f64a1d1257e2
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378c0b853a367346a87cfa49dccf338
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013ad47d4c11a143927773d853b0e75
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_28
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b4cf2bf99e334598033d2e27d171a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_29
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665e03081a5c4846a511c4ac576d1f0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_30
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3363aaaeb8c0418ca9fd63631300b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_31
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460fa6bd15b9ad54f9fe166a6cdcc000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_32
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31695d31a6b00ed408cf0c2089132996
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_33
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1153.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb32f1a54630a447815a753b4284d2d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a5d3aa7ccbbc342be49cc1ea2c5f52
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32699e7f751374ebfb98f2a8e35211
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0b50752dd50e4cbb83cbe8d0f7f31
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca66b71093d5d640984fd6c42ba1569
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3076682d1a7994f979ee713b0bee49
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_39
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a4db0510fde542a4ca8b1d90f06e6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_40
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202d6e1ecce9e304995ad6c8b005f3e8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_41
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b984b6dc82d4c34ab89a7762d98364a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_42
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95535454a7795e84398bcc6c461a8415
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_43
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 961.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e535e060571774580a9fb755f33f2e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884fafdb09b123447ae2f660784b7292
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c766df072f73754ead84e777d8bed25
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa89fb6389afe542960125e8b6d2150
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_47
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb7c993d8afe547b0f12dae8f0988a
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_48
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a31ad3a4b794c4c90c22290e2d131a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_49
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b13fca47113c5479634b6812f6f556
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_50
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432961d2ceaafd4abcd47d3a4b41958
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_51
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2231e0288b2df428c114ddebc63df0
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_52
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c675ace4c9df145b380e5d06803666
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_53
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 769.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d5864a95dcc84cb49787e334140ee
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08034759573f344964608cc53551b1
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353bb18a5acea143ade203af32f27d5
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f909020f087cf347b320dc3af0c417d
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_57
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4ca96b1e483941a115d337c390d4f
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_58
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f3f500b2ae0c45a1a46245e954422
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_59
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e5d46713486d488dce686d71d4577
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_60
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d2ca4f37715794bb15a339bedc87a2
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_61
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b3aa212f79284388511c313c7ce4f
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_62
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c861e085f437f3d4ebcd70e8423d087c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_63
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 577.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a3c787dbf311428691e449f9abb70
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f2152eaa3e8914ca82e1d70402f31c
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2884b9051eeb42886f63083f23f2c
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_66
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535b880de0e72243ab2921cc62b2d66
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_67
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404effe728b897408b2c35fd4448b3e
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_68
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd8bbab22d0a844ae9c063732a9345
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_69
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910a89a8dc582844b77a0b00d4d8ad7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_70
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b3ddce4975de4eaadaebff0e8fee3
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_71
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a71ffb1ef49004f92a42ff2ae6bb5a
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_72
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2fdc6b34055640a0e69ac57b35aec
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_73
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 385.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fbe267d660364a902ff9955e0629b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afdf1ff49ef88d49a17b0c73ee8e614
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957c75d96176c6a43a761453cd21c473
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_76
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327fb13ec4e3484d9426cde6262d86b
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_77
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08967d759b7c4354f98663c5896cf505
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_78
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2bacca2104bfd48a3563e22cc82621
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_79
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09f2cb132a3184395550a99e892479
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_80
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab53b6068ba9d34788216deeed635ce
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_81
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ecbeaa39f68d48ac3ec8f2507e00e
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_82
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89c7f5f006ff54e9c7875d363437a8
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_83
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 193.8
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d17bedeb4a5541b9a1a95a8a1fbb4
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0835b6daad7f61347b473d5ba2f55c8c
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c80a2d42a183d4f947fccb0dfbd572
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_86
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f480e564d1ac474897b353268e91dbb
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_87
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df5ae47f8213e43a786d0a6adcd439
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_88
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509440fe5e8749c489f02fba3b9ca578
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_89
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16853884453160b40b63470205270689
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_90
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249527820a7411648bccb689ece8865a
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_91
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091aad5f2d0823b4bad29ccf65b380ea
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_92
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ebbeaae18dd224c82a5a2b49f40d1c
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-slime_93
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1.800003
+        width: 197.4
+        height: 192.2
+      alignment: 9
+      pivot: {x: 0.65, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6aa26dee658f64ca839bd9ad4ef102
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86bc396615c7bd54ab7a6a5279a416ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pink-slime_0: 21300000
+      pink-slime_1: 21300002
+      pink-slime_10: 21300020
+      pink-slime_11: 21300022
+      pink-slime_12: 21300024
+      pink-slime_13: 21300026
+      pink-slime_14: 21300028
+      pink-slime_15: 21300030
+      pink-slime_16: 21300032
+      pink-slime_17: 21300034
+      pink-slime_18: 21300036
+      pink-slime_19: 21300038
+      pink-slime_2: 21300004
+      pink-slime_20: 21300040
+      pink-slime_21: 21300042
+      pink-slime_22: 21300044
+      pink-slime_23: 21300046
+      pink-slime_24: 21300048
+      pink-slime_25: 21300050
+      pink-slime_26: 21300052
+      pink-slime_27: 21300054
+      pink-slime_28: 21300056
+      pink-slime_29: 21300058
+      pink-slime_3: 21300006
+      pink-slime_30: 21300060
+      pink-slime_31: 21300062
+      pink-slime_32: 21300064
+      pink-slime_33: 21300066
+      pink-slime_34: 21300068
+      pink-slime_35: 21300070
+      pink-slime_36: 21300072
+      pink-slime_37: 21300074
+      pink-slime_38: 21300076
+      pink-slime_39: 21300078
+      pink-slime_4: 21300008
+      pink-slime_40: 21300080
+      pink-slime_41: 21300082
+      pink-slime_42: 21300084
+      pink-slime_43: 21300086
+      pink-slime_44: 21300088
+      pink-slime_45: 21300090
+      pink-slime_46: 21300092
+      pink-slime_47: 21300094
+      pink-slime_48: 21300096
+      pink-slime_49: 21300098
+      pink-slime_5: 21300010
+      pink-slime_50: 21300100
+      pink-slime_51: 21300102
+      pink-slime_52: 21300104
+      pink-slime_53: 21300106
+      pink-slime_54: 21300108
+      pink-slime_55: 21300110
+      pink-slime_56: 21300112
+      pink-slime_57: 21300114
+      pink-slime_58: 21300116
+      pink-slime_59: 21300118
+      pink-slime_6: 21300012
+      pink-slime_60: 21300120
+      pink-slime_61: 21300122
+      pink-slime_62: 21300124
+      pink-slime_63: 21300126
+      pink-slime_64: 21300128
+      pink-slime_65: 21300130
+      pink-slime_66: 21300132
+      pink-slime_67: 21300134
+      pink-slime_68: 21300136
+      pink-slime_69: 21300138
+      pink-slime_7: 21300014
+      pink-slime_70: 21300140
+      pink-slime_71: 21300142
+      pink-slime_72: 21300144
+      pink-slime_73: 21300146
+      pink-slime_74: 21300148
+      pink-slime_75: 21300150
+      pink-slime_76: 21300152
+      pink-slime_77: 21300154
+      pink-slime_78: 21300156
+      pink-slime_79: 21300158
+      pink-slime_8: 21300016
+      pink-slime_80: 21300160
+      pink-slime_81: 21300162
+      pink-slime_82: 21300164
+      pink-slime_83: 21300166
+      pink-slime_84: 21300168
+      pink-slime_85: 21300170
+      pink-slime_86: 21300172
+      pink-slime_87: 21300174
+      pink-slime_88: 21300176
+      pink-slime_89: 21300178
+      pink-slime_9: 21300018
+      pink-slime_90: 21300180
+      pink-slime_91: 21300182
+      pink-slime_92: 21300184
+      pink-slime_93: 21300186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

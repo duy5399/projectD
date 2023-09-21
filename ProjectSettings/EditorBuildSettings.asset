@@ -6,12 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Homepage.unity
+    path: Assets/Scenes/Login.unity
+    guid: 1dd74ad262b6aad4b8f25135ea9e19f3
+  - enabled: 0
+    path: Assets/Scenes/Homepage 1.unity
     guid: aa0474b3aee594e4fa68efb5e8f530a3
+  - enabled: 1
+    path: Assets/Scenes/Homepage.unity
+    guid: 3692125c640471e4bb8dccd0a305c042
   - enabled: 1
     path: Assets/Scenes/AntCave.unity
     guid: e6712cb08f8ccba4b99fa96421ffb351
   - enabled: 1
     path: Assets/Scenes/BugouCastle.unity
-    guid: 408cb1cb8d935df4bb72668884b59f24
+    guid: 0646f289f28764b4eadf768e6ee0963a
+  - enabled: 1
+    path: Assets/Scenes/EvilTribe.unity
+    guid: a7c542ca41ff00140a8e2450b789287c
+  - enabled: 0
+    path: Assets/Scenes/BugouCastle 1.unity
+    guid: c703c8f3416d77f4194536165322d669
+  - enabled: 0
+    path: Assets/Scenes/EvilTribe 1.unity
+    guid: 389d267f9da04a64a808d5dbf88cccf0
+  - enabled: 1
+    path: Assets/Scenes/PvPMap.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

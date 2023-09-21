@@ -1,0 +1,5302 @@
+fileFormatVersion: 2
+guid: 4828b47fcd02692429afb568880d2062
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: blue-ant_0
+  - first:
+      213: 21300002
+    second: blue-ant_1
+  - first:
+      213: 21300004
+    second: blue-ant_2
+  - first:
+      213: 21300006
+    second: blue-ant_3
+  - first:
+      213: 21300008
+    second: blue-ant_4
+  - first:
+      213: 21300010
+    second: blue-ant_5
+  - first:
+      213: 21300012
+    second: blue-ant_6
+  - first:
+      213: 21300014
+    second: blue-ant_7
+  - first:
+      213: 21300016
+    second: blue-ant_8
+  - first:
+      213: 21300018
+    second: blue-ant_9
+  - first:
+      213: 21300020
+    second: blue-ant_10
+  - first:
+      213: 21300022
+    second: blue-ant_11
+  - first:
+      213: 21300024
+    second: blue-ant_12
+  - first:
+      213: 21300026
+    second: blue-ant_13
+  - first:
+      213: 21300028
+    second: blue-ant_14
+  - first:
+      213: 21300030
+    second: blue-ant_15
+  - first:
+      213: 21300032
+    second: blue-ant_16
+  - first:
+      213: 21300034
+    second: blue-ant_17
+  - first:
+      213: 21300036
+    second: blue-ant_18
+  - first:
+      213: 21300038
+    second: blue-ant_19
+  - first:
+      213: 21300040
+    second: blue-ant_20
+  - first:
+      213: 21300042
+    second: blue-ant_21
+  - first:
+      213: 21300044
+    second: blue-ant_22
+  - first:
+      213: 21300046
+    second: blue-ant_23
+  - first:
+      213: 21300048
+    second: blue-ant_24
+  - first:
+      213: 21300050
+    second: blue-ant_25
+  - first:
+      213: 21300052
+    second: blue-ant_26
+  - first:
+      213: 21300054
+    second: blue-ant_27
+  - first:
+      213: 21300056
+    second: blue-ant_28
+  - first:
+      213: 21300058
+    second: blue-ant_29
+  - first:
+      213: 21300060
+    second: blue-ant_30
+  - first:
+      213: 21300062
+    second: blue-ant_31
+  - first:
+      213: 21300064
+    second: blue-ant_32
+  - first:
+      213: 21300066
+    second: blue-ant_33
+  - first:
+      213: 21300068
+    second: blue-ant_34
+  - first:
+      213: 21300070
+    second: blue-ant_35
+  - first:
+      213: 21300072
+    second: blue-ant_36
+  - first:
+      213: 21300074
+    second: blue-ant_37
+  - first:
+      213: 21300076
+    second: blue-ant_38
+  - first:
+      213: 21300078
+    second: blue-ant_39
+  - first:
+      213: 21300080
+    second: blue-ant_40
+  - first:
+      213: 21300082
+    second: blue-ant_41
+  - first:
+      213: 21300084
+    second: blue-ant_42
+  - first:
+      213: 21300086
+    second: blue-ant_43
+  - first:
+      213: 21300088
+    second: blue-ant_44
+  - first:
+      213: 21300090
+    second: blue-ant_45
+  - first:
+      213: 21300092
+    second: blue-ant_46
+  - first:
+      213: 21300094
+    second: blue-ant_47
+  - first:
+      213: 21300096
+    second: blue-ant_48
+  - first:
+      213: 21300098
+    second: blue-ant_49
+  - first:
+      213: 21300100
+    second: blue-ant_50
+  - first:
+      213: 21300102
+    second: blue-ant_51
+  - first:
+      213: 21300104
+    second: blue-ant_52
+  - first:
+      213: 21300106
+    second: blue-ant_53
+  - first:
+      213: 21300108
+    second: blue-ant_54
+  - first:
+      213: 21300110
+    second: blue-ant_55
+  - first:
+      213: 21300112
+    second: blue-ant_56
+  - first:
+      213: 21300114
+    second: blue-ant_57
+  - first:
+      213: 21300116
+    second: blue-ant_58
+  - first:
+      213: 21300118
+    second: blue-ant_59
+  - first:
+      213: 21300120
+    second: blue-ant_60
+  - first:
+      213: 21300122
+    second: blue-ant_61
+  - first:
+      213: 21300124
+    second: blue-ant_62
+  - first:
+      213: 21300126
+    second: blue-ant_63
+  - first:
+      213: 21300128
+    second: blue-ant_64
+  - first:
+      213: 21300130
+    second: blue-ant_65
+  - first:
+      213: 21300132
+    second: blue-ant_66
+  - first:
+      213: 21300134
+    second: blue-ant_67
+  - first:
+      213: 21300136
+    second: blue-ant_68
+  - first:
+      213: 21300138
+    second: blue-ant_69
+  - first:
+      213: 21300140
+    second: blue-ant_70
+  - first:
+      213: 21300142
+    second: blue-ant_71
+  - first:
+      213: 21300144
+    second: blue-ant_72
+  - first:
+      213: 21300146
+    second: blue-ant_73
+  - first:
+      213: 21300148
+    second: blue-ant_74
+  - first:
+      213: 21300150
+    second: blue-ant_75
+  - first:
+      213: 21300152
+    second: blue-ant_76
+  - first:
+      213: 21300154
+    second: blue-ant_77
+  - first:
+      213: 21300156
+    second: blue-ant_78
+  - first:
+      213: 21300158
+    second: blue-ant_79
+  - first:
+      213: 21300160
+    second: blue-ant_80
+  - first:
+      213: 21300162
+    second: blue-ant_81
+  - first:
+      213: 21300164
+    second: blue-ant_82
+  - first:
+      213: 21300166
+    second: blue-ant_83
+  - first:
+      213: 21300168
+    second: blue-ant_84
+  - first:
+      213: 21300170
+    second: blue-ant_85
+  - first:
+      213: 21300172
+    second: blue-ant_86
+  - first:
+      213: 21300174
+    second: blue-ant_87
+  - first:
+      213: 21300176
+    second: blue-ant_88
+  - first:
+      213: 21300178
+    second: blue-ant_89
+  - first:
+      213: 21300180
+    second: blue-ant_90
+  - first:
+      213: 21300182
+    second: blue-ant_91
+  - first:
+      213: 21300184
+    second: blue-ant_92
+  - first:
+      213: 21300186
+    second: blue-ant_93
+  - first:
+      213: 21300188
+    second: blue-ant_94
+  - first:
+      213: 21300190
+    second: blue-ant_95
+  - first:
+      213: 21300192
+    second: blue-ant_96
+  - first:
+      213: 21300194
+    second: blue-ant_97
+  - first:
+      213: 21300196
+    second: blue-ant_98
+  - first:
+      213: 21300198
+    second: blue-ant_99
+  - first:
+      213: 21300200
+    second: blue-ant_100
+  - first:
+      213: 21300202
+    second: blue-ant_101
+  - first:
+      213: 21300204
+    second: blue-ant_102
+  - first:
+      213: 21300206
+    second: blue-ant_103
+  - first:
+      213: 21300208
+    second: blue-ant_104
+  - first:
+      213: 21300210
+    second: blue-ant_105
+  - first:
+      213: 21300212
+    second: blue-ant_106
+  - first:
+      213: 21300214
+    second: blue-ant_107
+  - first:
+      213: 21300216
+    second: blue-ant_108
+  - first:
+      213: 21300218
+    second: blue-ant_109
+  - first:
+      213: 21300220
+    second: blue-ant_110
+  - first:
+      213: 21300222
+    second: blue-ant_111
+  - first:
+      213: 21300224
+    second: blue-ant_112
+  - first:
+      213: 21300226
+    second: blue-ant_113
+  - first:
+      213: 21300228
+    second: blue-ant_114
+  - first:
+      213: 21300230
+    second: blue-ant_115
+  - first:
+      213: 21300232
+    second: blue-ant_116
+  - first:
+      213: 21300234
+    second: blue-ant_117
+  - first:
+      213: 21300236
+    second: blue-ant_118
+  - first:
+      213: 21300238
+    second: blue-ant_119
+  - first:
+      213: 21300240
+    second: blue-ant_120
+  - first:
+      213: 21300242
+    second: blue-ant_121
+  - first:
+      213: 21300244
+    second: blue-ant_122
+  - first:
+      213: 21300246
+    second: blue-ant_123
+  - first:
+      213: 21300248
+    second: blue-ant_124
+  - first:
+      213: 21300250
+    second: blue-ant_125
+  - first:
+      213: 21300252
+    second: blue-ant_126
+  - first:
+      213: 21300254
+    second: blue-ant_127
+  - first:
+      213: 21300256
+    second: blue-ant_128
+  - first:
+      213: 21300258
+    second: blue-ant_129
+  - first:
+      213: 21300260
+    second: blue-ant_130
+  - first:
+      213: 21300262
+    second: blue-ant_131
+  - first:
+      213: 21300264
+    second: blue-ant_132
+  - first:
+      213: 21300266
+    second: blue-ant_133
+  - first:
+      213: 21300268
+    second: blue-ant_134
+  - first:
+      213: 21300270
+    second: blue-ant_135
+  - first:
+      213: 21300272
+    second: blue-ant_136
+  - first:
+      213: 21300274
+    second: blue-ant_137
+  - first:
+      213: 21300276
+    second: blue-ant_138
+  - first:
+      213: 21300278
+    second: blue-ant_139
+  - first:
+      213: 21300280
+    second: blue-ant_140
+  - first:
+      213: 21300282
+    second: blue-ant_141
+  - first:
+      213: 21300284
+    second: blue-ant_142
+  - first:
+      213: 21300286
+    second: blue-ant_143
+  - first:
+      213: 21300288
+    second: blue-ant_144
+  - first:
+      213: 21300290
+    second: blue-ant_145
+  - first:
+      213: 21300292
+    second: blue-ant_146
+  - first:
+      213: 21300294
+    second: blue-ant_147
+  - first:
+      213: 21300296
+    second: blue-ant_148
+  - first:
+      213: 21300298
+    second: blue-ant_149
+  - first:
+      213: 21300300
+    second: blue-ant_150
+  - first:
+      213: 21300302
+    second: blue-ant_151
+  - first:
+      213: 21300304
+    second: blue-ant_152
+  - first:
+      213: 21300306
+    second: blue-ant_153
+  - first:
+      213: 21300308
+    second: blue-ant_154
+  - first:
+      213: 21300310
+    second: blue-ant_155
+  - first:
+      213: 21300312
+    second: blue-ant_156
+  - first:
+      213: 21300314
+    second: blue-ant_157
+  - first:
+      213: 21300316
+    second: blue-ant_158
+  - first:
+      213: 21300318
+    second: blue-ant_159
+  - first:
+      213: 21300320
+    second: blue-ant_160
+  - first:
+      213: 21300322
+    second: blue-ant_161
+  - first:
+      213: 21300324
+    second: blue-ant_162
+  - first:
+      213: 21300326
+    second: blue-ant_163
+  - first:
+      213: 21300328
+    second: blue-ant_164
+  - first:
+      213: 21300330
+    second: blue-ant_165
+  - first:
+      213: 21300332
+    second: blue-ant_166
+  - first:
+      213: 21300334
+    second: blue-ant_167
+  - first:
+      213: 21300336
+    second: blue-ant_168
+  - first:
+      213: 21300338
+    second: blue-ant_169
+  - first:
+      213: 21300340
+    second: blue-ant_170
+  - first:
+      213: 21300342
+    second: blue-ant_171
+  - first:
+      213: 21300344
+    second: blue-ant_172
+  - first:
+      213: 21300346
+    second: blue-ant_173
+  - first:
+      213: 21300348
+    second: blue-ant_174
+  - first:
+      213: 21300350
+    second: blue-ant_175
+  - first:
+      213: 21300352
+    second: blue-ant_176
+  - first:
+      213: 21300354
+    second: blue-ant_177
+  - first:
+      213: 21300356
+    second: blue-ant_178
+  - first:
+      213: 21300358
+    second: blue-ant_179
+  - first:
+      213: 21300360
+    second: blue-ant_180
+  - first:
+      213: 21300362
+    second: blue-ant_181
+  - first:
+      213: 21300364
+    second: blue-ant_182
+  - first:
+      213: 21300366
+    second: blue-ant_183
+  - first:
+      213: 21300368
+    second: blue-ant_184
+  - first:
+      213: 21300370
+    second: blue-ant_185
+  - first:
+      213: 21300372
+    second: blue-ant_186
+  - first:
+      213: 21300374
+    second: blue-ant_187
+  - first:
+      213: 21300376
+    second: blue-ant_188
+  - first:
+      213: 21300378
+    second: blue-ant_189
+  - first:
+      213: 21300380
+    second: blue-ant_190
+  - first:
+      213: 21300382
+    second: blue-ant_191
+  - first:
+      213: 21300384
+    second: blue-ant_192
+  - first:
+      213: 21300386
+    second: blue-ant_193
+  - first:
+      213: 21300388
+    second: blue-ant_194
+  - first:
+      213: 21300390
+    second: blue-ant_195
+  - first:
+      213: 21300392
+    second: blue-ant_196
+  - first:
+      213: 21300394
+    second: blue-ant_197
+  - first:
+      213: 21300396
+    second: blue-ant_198
+  - first:
+      213: 21300398
+    second: blue-ant_199
+  - first:
+      213: 21300400
+    second: blue-ant_200
+  - first:
+      213: 21300402
+    second: blue-ant_201
+  - first:
+      213: 21300404
+    second: blue-ant_202
+  - first:
+      213: 21300406
+    second: blue-ant_203
+  - first:
+      213: 21300408
+    second: blue-ant_204
+  - first:
+      213: 21300410
+    second: blue-ant_205
+  - first:
+      213: 21300412
+    second: blue-ant_206
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue-ant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69517286f8b0f2c4696cc1d3497a1e35
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74138ea3b3d21a4b96270f06f4e2f92
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84c7613a15588499b710be2f021f3d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36305929e19d86c499209cb66ebee5e5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8490dfc1c38d4095833947e8f091f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758931a462d61140ab966130623125e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174ceecd05be1f498490fea9286e5d1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b709eab728bce44a4c149278036a84
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03670ae638009541ba5f8084deacad7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd85e318f90ae454d905dc5cc19696cf
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5422ec37a669c4e962698519025818
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c4a1ddf537994cb0f78b403b10cce
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d1addfdaa87ef48bd751922dac4505
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_13
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee132163ea22bb4ea56d813b24f5e61
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b6bb10c4ce9440bd748f0a2ac6086
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17b4c5e3dcc9c49b5f0101ae076487
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_16
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea9b584e3ac5f44babedc7faf3253a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_17
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d544249eec7bd24790aa9b89069dab6
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_18
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408eef3ca5f569b468bc38b1b4ce6275
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_19
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1020
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a1c0513366d24e93432aba1c7a8e6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8809214f7c89d941a6e71a7f1aa74cb
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e590e360d16a82429a105802ea598ba
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d82801b512d149be10c73046c2087
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fa8eb5000d32439bcd03f827c73ff
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50fb8e46d2fa64a93ab14954f6e832
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f9bb4bda6f7c3419b46806558a3399
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b83331231e37143963b2ea43601f5a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_27
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233b826703d22c429d850936b9ae6cb
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1936a387ba94c4490b89e70ccc039a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_29
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b06df74373ae5449ba81b468694b37
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_30
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ba2e3170cae3469ab8fdd7d2dc19c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_31
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ce62c8dedc154394466016dcb1bfd
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_32
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aea2b361f5f1fc43af14b808d438f21
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_33
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f337d8adda8db4a8113faf1ccbc537
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_34
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a9887f52c28e49b7552c8dbb6db5c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_35
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd7748961369d41bb9d79be01ed5da
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_36
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedae4171228a96479ca0a130de0d4a8
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_37
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135aefd353bfd7419fcb4d5c2204227
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_38
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac558357804d8438cca8cd8f9d1c2a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_39
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 918
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb2007256af2d48b69a14b5b93adf5
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b76de8a691d03498809933143d9ba0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8703c5b06c9a47a69233622cfaee9
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14103d0af331646a17d0646525929f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_43
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9998387c457d064585d962d92336279
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6459e9dfd2d54387095e442b5270e
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_45
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9278d350d858b704d95e897ddb49ca8d
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_46
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2872f5b4ebb54af488fc7c0405b9d478
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_47
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b0e1ce1d6004a44850279bcc4cebb8
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_48
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5596b139e08d24581d7d73dae6bd98
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_49
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a18d9867788f4ba6854c4c7bdc637
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_50
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d7d0537621cb243a7e5864a6387ed0
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_51
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e66b16ef6436469cb27838d6d7795
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_52
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b46682a7df420449fc3225588742b1
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_53
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564a8ef17b184346909c0de41266689
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_54
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd6406170aaf847af55d1ce3df74f6
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_55
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2187ce07c3735f4f9f1da57d3c545b0
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_56
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48dbd97f14a9f4ca33442aabb25fa4
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_57
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0741cc7e259e42ac60b12028014b2
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_58
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474bc09753e7034a9326e22250ac978
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_59
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 816
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603bd174ccee66c46a5e5686bc7b2639
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5ceb627359114f88d5e9c71389402
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c8758720e3408498e24a39e63e7d0c
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741b7a3fca1ce2489900babc3b4dfb9
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28094ab4943d0b4283959907ef87dd7
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b929805c196b6408d2efa1acc72cb2
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa391f7e0723a47b2e14d0f78289b8
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_66
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34641a5be2d88b949bad31c729d91950
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_67
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c1eb868db01f439d8d765b2a7b302
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_68
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133b15c6690449e46ab9d16ec62186fa
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_69
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d373a35b6ba64880268b537db9dd9
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_70
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f960d0b81a5be543889e5715e020dd3
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_71
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e4f0ba9dc08f488cb04ad248338d5
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_72
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab1e670a0f17b45a791076c40e879f
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_73
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5e62790f4b644cbf6d78eef84005b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_74
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633dface261ce1e47af52008b6e97987
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_75
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651ccc5c68e2d54fab883446a6062a8
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_76
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051409585f2b5b4789ff45cd64e5f0c
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_77
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60346998b2cec934ab10f6cfa64b8aef
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_78
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371130f8f2c66fc4fa613c6e4fde32ed
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_79
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 714
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b590854d97abd349a7cf52cab3c2478
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77502140c5e3758418729ab4de988d75
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf27783e62e3764a8ccbf7089f6f269
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6268412ffe614ebb090eac89fc469
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_83
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c87278c56f98448ecad2a2bdb4e2a
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_84
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78efb12ae9c110540a2b416488d234e4
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_85
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8470ebe2d33a51049a33d81e533546a2
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_86
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c887fa3d86a3314986e52e5a24820d4
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_87
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73645cd77827e82409e6c7431c9927a9
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_88
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06394119a5a530542b3197bc79e46a28
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_89
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392617e0681f8ae4b9a04853b9c5a04b
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_90
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b07fcfae991d42b73e38ce0f381ce
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_91
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca60951229d20646998191123e28aa7
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_92
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4e916be0b0ed418d42f2807065b26
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_93
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872686cf21105bb4593117dd81d0abc8
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_94
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf77ad4410d2347a112b7474118366
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_95
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f8825cbbb2a344851651f050a9ae8
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_96
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be12a15cc8ecc41b82db569812209f
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_97
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc6178a3ae4c54f948c84e775dcc52
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_98
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c696d152bf9664c81cac6da148c150
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_99
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 612
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebad1c8185870b42b97d2ce14ed1143
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c468a5d3ff48545b3ac25eea56415e
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_101
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271bd13e3665cff4ca2854cc6f9c5407
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a434fc01d564545bc99aa1a251acb9
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_103
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58e88fb10548a46a2cb181323272e0
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_104
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad35772b727af042bdc789eb5f9498a
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_105
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109c78a3d524bf4c8a5d943fd6b8c97
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_106
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9e925a74364b4cb180329ed7617be
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_107
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a4d00508bbba4bba7a4cb18bf4e76
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_108
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429951bf34d95a04eae8c803dee4f511
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_109
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c8c26bedf08d440bc62233f184b444
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_110
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d24968c1ee7942bdbefb5219d1514
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_111
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee9a3de81e7ba4cb0713cfe6240b8e
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_112
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5dbc734660e0d4eb201b16e911a4ab
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_113
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf3265182b42044b9f04cccbe1978a
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_114
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e6a02c4dcb45c4f916553b6138292e
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_115
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ac5d52561dcb4db90284f7bcb1948
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_116
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859fbb6b77353014a858e96e7fa6edc5
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_117
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2816650cf065d3499159b9cbce5a779
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_118
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 510
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c52444aa5af2645843a6aada378874
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b2bd63d5f96b4b92752c22c7eea89
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_120
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf897d2d4bca748beaab4293c64869
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35835712293b6444a1a3265328332ec
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_122
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ca8afd718f8b4b83607cd36e5ebe2
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_123
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbef4131fee0ed4cb1675e8e7b10031
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_124
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1855c5263296d144a9a3f4e65637aca
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_125
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67161fcbf9fb8484595bc3312c81c19d
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_126
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e5a1adb33c4f4eb2d77d60054b564
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_127
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e12981947e0f4383f2d6ed4de68eb
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_128
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ef6ba6cc6bf8469aa51cb25081f54
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_129
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c9d10baf1ff4488a281b630a34e18
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_130
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f0264f42ddb44caa9d70789d811bb
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_131
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98faeda04a7274ea40ff85352d34b7
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_132
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103c0c6f460cef4da64c7cb34d017ae
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_133
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e04122b9cc794d9e1e56efaffb738
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_134
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1710a378e80d3a4ab29023d34570c52
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_135
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9818f97b783fb948b476543e197691f
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_136
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 408
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16211455b00f847b727022862be86c
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ceacc17893f8499044cdac252e26e
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_138
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d4654a5d73e447bd9d90b08e1f05b
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e29b0521986a49a769bef7836ec32
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_140
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7ad4c494599e46897e5413bd6760b
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_141
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca60c12ae08f540a151013bfd842c1
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_142
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa7f34778e16a74d9fb801060bb4bc9
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_143
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee66d696f37b694eb2bbe74d180be20
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_144
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1ea94aa96f1642bd17c72a3eb29f4
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_145
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f100555b2227e24996ada85d2082606
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_146
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50185de2f8b85c041bda692f2ce64641
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_147
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2bb2dba74f314e8467f7766bc4f22
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_148
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c91b2139e8b5c4ba14d9f37634455d
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_149
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8635be444ac0eff4f9da83bd325439ef
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_150
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243e7d9c33f6f949b9e2f0ae69a5ae5
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_151
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e70b8e4fa62a74bb31990248ab852f
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_152
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49888b2d2fa194e8411d80f7f8ee28
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_153
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9681887c232e4439130ff338272c28
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_154
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece825f90d5f04a40aa2e59fa17b3353
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_155
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 306
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dac62184e37de48bff80d240520e0d
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1576012a2f004ea0a99552b228076
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_157
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd05ab49f9a877549a39e94f299c6440
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_158
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c33f1eb205e2854f86f3b8a9f67217d
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_159
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ca5fe4d02a5d45acb8784254f0951
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_160
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c392a709fbe943a062379e6604407
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_161
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d55680d068964db21dc7bff029082
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_162
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a8375a7997634fa3c6ac87ba59656
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_163
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4244fb9008904a8dc149d14b74d8a
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_164
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362a3564ef4efa04582a4f6284243a66
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_165
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebdb8ef6a3889140bedc7f51dc5ed09
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_166
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eecd5fd9e0a7f489b7f19197593d3c
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_167
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af02805a5b59349a49f6506616a2dd
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_168
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b420300f8acecd64b85114ee7e024a9b
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_169
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf69b27dae883d24c908528afa85414b
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_170
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c392e8850bbcc2f43ad5df7d484fa394
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_171
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66909fec088eb014a85d29f8289f62c5
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_172
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896a7836402fe24eb03a454ad29ef4a
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_173
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d161875620308841beaafb7fc6aaf31
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_174
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c73a8a09794534ab6d4ddec620d72f
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_175
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 204
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f715ee718cf1df4a8aa60c87e8da9e1
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5bb77f7ad58f438e112506b635f30
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_177
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f73e5f3ea2185f47927818f522900e0
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_178
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83901a5984d17eb4bafdc45d152a71cb
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_179
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e972c048d2da5c45b2f4558d7540197
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_180
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c444631285dc6448a843f7cc4f45b73
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_181
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eeeb97325db474daecbbda21c7bb33
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_182
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ad7dcb73969441acf9a3a651bc260
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_183
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727215d2612270b4bbbc59c91585f7ec
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_184
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934503686d52ee84d8efad06e18205b5
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_185
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a1c249de3588a43b5459819c793ca5
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_186
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371efb93f7824c343a013e0a2b47a4df
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_187
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d73105e19e6c48984a6e00a0b7688
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_188
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18dec3897892e746b66e2bc31545176
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_189
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010466ad3d585b4d86acd1f659691e4
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_190
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1e823c233200458bc46fb11bb2eee
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_191
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede3440f95a30f4c9b2656d462c0c4b
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_192
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747edebb2f73f2b4cadcc965f129a245
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_193
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f33052d184ad7e47bdd1db01c974bd0
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_194
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bab17926ff1b34b8543703e7a009cf
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_195
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 102
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fcc723473ff047b31f4dae567a5fc
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287d9736dca296458259ab1e06f0cc1
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_197
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8419185e686f428f21dc9854482be
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_198
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c76a1bc1b6c2114e955cccb7c588baa
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_199
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4654ac22957b41957234cde9d13a5
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_200
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7326ea177ed846b0466aaa19ea50a
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_201
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3111768786deb4f4f9f20d6899331d8c
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_202
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6d93f63f6bba478006cbbdba132fb
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_203
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b938948822768574691db85754def5c1
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_204
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e4cde94741e044807b4b43ea5bebf
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_205
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffc9e5ced702d4b8014c27ecc61ba1
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-ant_206
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93aa6639a6fad408e7320a3b4352e3
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2944abd13af241d4bbff394fd41941d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blue-ant_0: 21300000
+      blue-ant_1: 21300002
+      blue-ant_10: 21300020
+      blue-ant_100: 21300200
+      blue-ant_101: 21300202
+      blue-ant_102: 21300204
+      blue-ant_103: 21300206
+      blue-ant_104: 21300208
+      blue-ant_105: 21300210
+      blue-ant_106: 21300212
+      blue-ant_107: 21300214
+      blue-ant_108: 21300216
+      blue-ant_109: 21300218
+      blue-ant_11: 21300022
+      blue-ant_110: 21300220
+      blue-ant_111: 21300222
+      blue-ant_112: 21300224
+      blue-ant_113: 21300226
+      blue-ant_114: 21300228
+      blue-ant_115: 21300230
+      blue-ant_116: 21300232
+      blue-ant_117: 21300234
+      blue-ant_118: 21300236
+      blue-ant_119: 21300238
+      blue-ant_12: 21300024
+      blue-ant_120: 21300240
+      blue-ant_121: 21300242
+      blue-ant_122: 21300244
+      blue-ant_123: 21300246
+      blue-ant_124: 21300248
+      blue-ant_125: 21300250
+      blue-ant_126: 21300252
+      blue-ant_127: 21300254
+      blue-ant_128: 21300256
+      blue-ant_129: 21300258
+      blue-ant_13: 21300026
+      blue-ant_130: 21300260
+      blue-ant_131: 21300262
+      blue-ant_132: 21300264
+      blue-ant_133: 21300266
+      blue-ant_134: 21300268
+      blue-ant_135: 21300270
+      blue-ant_136: 21300272
+      blue-ant_137: 21300274
+      blue-ant_138: 21300276
+      blue-ant_139: 21300278
+      blue-ant_14: 21300028
+      blue-ant_140: 21300280
+      blue-ant_141: 21300282
+      blue-ant_142: 21300284
+      blue-ant_143: 21300286
+      blue-ant_144: 21300288
+      blue-ant_145: 21300290
+      blue-ant_146: 21300292
+      blue-ant_147: 21300294
+      blue-ant_148: 21300296
+      blue-ant_149: 21300298
+      blue-ant_15: 21300030
+      blue-ant_150: 21300300
+      blue-ant_151: 21300302
+      blue-ant_152: 21300304
+      blue-ant_153: 21300306
+      blue-ant_154: 21300308
+      blue-ant_155: 21300310
+      blue-ant_156: 21300312
+      blue-ant_157: 21300314
+      blue-ant_158: 21300316
+      blue-ant_159: 21300318
+      blue-ant_16: 21300032
+      blue-ant_160: 21300320
+      blue-ant_161: 21300322
+      blue-ant_162: 21300324
+      blue-ant_163: 21300326
+      blue-ant_164: 21300328
+      blue-ant_165: 21300330
+      blue-ant_166: 21300332
+      blue-ant_167: 21300334
+      blue-ant_168: 21300336
+      blue-ant_169: 21300338
+      blue-ant_17: 21300034
+      blue-ant_170: 21300340
+      blue-ant_171: 21300342
+      blue-ant_172: 21300344
+      blue-ant_173: 21300346
+      blue-ant_174: 21300348
+      blue-ant_175: 21300350
+      blue-ant_176: 21300352
+      blue-ant_177: 21300354
+      blue-ant_178: 21300356
+      blue-ant_179: 21300358
+      blue-ant_18: 21300036
+      blue-ant_180: 21300360
+      blue-ant_181: 21300362
+      blue-ant_182: 21300364
+      blue-ant_183: 21300366
+      blue-ant_184: 21300368
+      blue-ant_185: 21300370
+      blue-ant_186: 21300372
+      blue-ant_187: 21300374
+      blue-ant_188: 21300376
+      blue-ant_189: 21300378
+      blue-ant_19: 21300038
+      blue-ant_190: 21300380
+      blue-ant_191: 21300382
+      blue-ant_192: 21300384
+      blue-ant_193: 21300386
+      blue-ant_194: 21300388
+      blue-ant_195: 21300390
+      blue-ant_196: 21300392
+      blue-ant_197: 21300394
+      blue-ant_198: 21300396
+      blue-ant_199: 21300398
+      blue-ant_2: 21300004
+      blue-ant_20: 21300040
+      blue-ant_200: 21300400
+      blue-ant_201: 21300402
+      blue-ant_202: 21300404
+      blue-ant_203: 21300406
+      blue-ant_204: 21300408
+      blue-ant_205: 21300410
+      blue-ant_206: 21300412
+      blue-ant_21: 21300042
+      blue-ant_22: 21300044
+      blue-ant_23: 21300046
+      blue-ant_24: 21300048
+      blue-ant_25: 21300050
+      blue-ant_26: 21300052
+      blue-ant_27: 21300054
+      blue-ant_28: 21300056
+      blue-ant_29: 21300058
+      blue-ant_3: 21300006
+      blue-ant_30: 21300060
+      blue-ant_31: 21300062
+      blue-ant_32: 21300064
+      blue-ant_33: 21300066
+      blue-ant_34: 21300068
+      blue-ant_35: 21300070
+      blue-ant_36: 21300072
+      blue-ant_37: 21300074
+      blue-ant_38: 21300076
+      blue-ant_39: 21300078
+      blue-ant_4: 21300008
+      blue-ant_40: 21300080
+      blue-ant_41: 21300082
+      blue-ant_42: 21300084
+      blue-ant_43: 21300086
+      blue-ant_44: 21300088
+      blue-ant_45: 21300090
+      blue-ant_46: 21300092
+      blue-ant_47: 21300094
+      blue-ant_48: 21300096
+      blue-ant_49: 21300098
+      blue-ant_5: 21300010
+      blue-ant_50: 21300100
+      blue-ant_51: 21300102
+      blue-ant_52: 21300104
+      blue-ant_53: 21300106
+      blue-ant_54: 21300108
+      blue-ant_55: 21300110
+      blue-ant_56: 21300112
+      blue-ant_57: 21300114
+      blue-ant_58: 21300116
+      blue-ant_59: 21300118
+      blue-ant_6: 21300012
+      blue-ant_60: 21300120
+      blue-ant_61: 21300122
+      blue-ant_62: 21300124
+      blue-ant_63: 21300126
+      blue-ant_64: 21300128
+      blue-ant_65: 21300130
+      blue-ant_66: 21300132
+      blue-ant_67: 21300134
+      blue-ant_68: 21300136
+      blue-ant_69: 21300138
+      blue-ant_7: 21300014
+      blue-ant_70: 21300140
+      blue-ant_71: 21300142
+      blue-ant_72: 21300144
+      blue-ant_73: 21300146
+      blue-ant_74: 21300148
+      blue-ant_75: 21300150
+      blue-ant_76: 21300152
+      blue-ant_77: 21300154
+      blue-ant_78: 21300156
+      blue-ant_79: 21300158
+      blue-ant_8: 21300016
+      blue-ant_80: 21300160
+      blue-ant_81: 21300162
+      blue-ant_82: 21300164
+      blue-ant_83: 21300166
+      blue-ant_84: 21300168
+      blue-ant_85: 21300170
+      blue-ant_86: 21300172
+      blue-ant_87: 21300174
+      blue-ant_88: 21300176
+      blue-ant_89: 21300178
+      blue-ant_9: 21300018
+      blue-ant_90: 21300180
+      blue-ant_91: 21300182
+      blue-ant_92: 21300184
+      blue-ant_93: 21300186
+      blue-ant_94: 21300188
+      blue-ant_95: 21300190
+      blue-ant_96: 21300192
+      blue-ant_97: 21300194
+      blue-ant_98: 21300196
+      blue-ant_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -20,5 +20,5 @@ MonoBehaviour:
   itemDescription: "T\u0103ng s\u1EE9c m\u1EA1nh trang b\u1ECB, ti\u1EBFn h\xE0nh
     c\u01B0\u1EDDng h\xF3a s\u1EBD ti\xEAu hao v\u1EADt ph\u1EA9m"
   maxStackSize: 99
-  itemUses: 0
+  itemUses: 1
   canCombine: 1

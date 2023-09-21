@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc08715bd0988744dacdd2128dad4f94, type: 3}
+  m_Name: Cthulhu-Difficult
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  facingLeft: 1
+  attackDamage: 800
+  prefabBullet:
+  - {fileID: 4211660147290259617, guid: f6b8bc5b6a867424183baa717075c31b, type: 3}
+  - {fileID: 2461052691330603366, guid: 9c6c8b30e77a26047ac9c882f819b7fe, type: 3}
+  maxHealth: 7000
+  armor: 400
+  prefabMob:
+  - {fileID: 8685319626763459203, guid: 26b5113b338fb05418dc40e8bb7e4b14, type: 3}
+  numberOfMob: 2
+  intervalNextAction: 2

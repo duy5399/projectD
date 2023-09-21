@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a41680c82865d694481941881cfbd5e0, type: 3}
+  m_Name: SkillMPRecoverySO_4
+  m_EditorClassIdentifier: 
+  strSkillID: SkillMPRecoverySO_4
+  sprSkillIcon: {fileID: 21300000, guid: e7e4cab409ef02f49a36340cc74eb58d, type: 3}
+  strSkillName: "H\u1ED3i MP"
+  strSkillDescription: "H\u1ED3i ph\u1EE5c ngay l\u1EADp t\u1EE9c <b><color=#2c87bb>40%
+    MP t\u1ED1i \u0111a</color></b> c\u1EE7a b\u1EA3n th\xE2n."
+  strSkillLevel: 4
+  intMPCost: 0
+  strSkillType: active
+  floatCooldown: 5
+  floatEffectDuration: 5
+  goSkillEffect: {fileID: 2260035137980622714, guid: 411a656959cab8d40b07d2ab29496922,
+    type: 3}
+  floatFlatHealingHP: 0
+  floatPercentageHealingHP: 0
+  floatFlatMPRecovery: 0
+  floatPercentageMPRecovery: 0.4
+  floatFlatDamage: 0
+  floatPercentageDamage: 0
+  floatFlatAttack: 0
+  floatPercentageAttack: 0
+  floatFlatShield: 0
+  floatPercentageShield: 0

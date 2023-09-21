@@ -57,11 +57,6 @@ public class ItemController : MonoBehaviour
             //    equipment = null;
             //}
         }
-        bool wasPickedUp = (itemSO.itemType_ == ItemSO.ItemType.Equipment) ? InventoryManager.instance.AddItem(equipment) : InventoryManager.instance.AddItem(material);
-        if(wasPickedUp)
-        {
-            Destroy(gameObject);
-        }
     }
 
     private void OnMouseDown()

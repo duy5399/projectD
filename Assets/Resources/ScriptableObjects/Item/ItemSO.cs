@@ -4,13 +4,13 @@ using UnityEngine;
 
 public abstract class ItemSO : ScriptableObject
 {
-    [SerializeField] protected string itemID = "1";
+    [SerializeField] protected string itemID;
     [SerializeField] protected ItemType itemType;
     [SerializeField] protected Sprite itemIcon;
-    [SerializeField] protected string itemName = "1";
+    [SerializeField] protected string itemName;
     [SerializeField] protected RarityTier itemTier;
-    [SerializeField] protected string itemDescription = "1";
-    [SerializeField] protected int maxStackSize = 2;
+    [SerializeField] protected string itemDescription;
+    [SerializeField] protected int maxStackSize;
 
     public string itemID_ => itemID;
     public ItemType itemType_ => itemType;

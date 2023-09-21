@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: 1191768fea0a3884ba5e1c129c3f2801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: wing137_0
+  - first:
+      213: 21300002
+    second: wing137_1
+  - first:
+      213: 21300004
+    second: wing137_2
+  - first:
+      213: 21300006
+    second: wing137_3
+  - first:
+      213: 21300008
+    second: wing137_4
+  - first:
+      213: 21300010
+    second: wing137_5
+  - first:
+      213: 21300012
+    second: wing137_6
+  - first:
+      213: 21300014
+    second: wing137_7
+  - first:
+      213: 21300016
+    second: wing137_8
+  - first:
+      213: 21300018
+    second: wing137_9
+  - first:
+      213: 21300020
+    second: wing137_10
+  - first:
+      213: 21300022
+    second: wing137_11
+  - first:
+      213: 21300024
+    second: wing137_12
+  - first:
+      213: 21300026
+    second: wing137_13
+  - first:
+      213: 21300028
+    second: wing137_14
+  - first:
+      213: 21300030
+    second: wing137_15
+  - first:
+      213: 21300032
+    second: wing137_16
+  - first:
+      213: 21300034
+    second: wing137_17
+  - first:
+      213: 21300036
+    second: wing137_18
+  - first:
+      213: 21300038
+    second: wing137_19
+  - first:
+      213: 21300040
+    second: wing137_20
+  - first:
+      213: 21300042
+    second: wing137_21
+  - first:
+      213: 21300044
+    second: wing137_22
+  - first:
+      213: 21300046
+    second: wing137_23
+  - first:
+      213: 21300048
+    second: wing137_24
+  - first:
+      213: 21300050
+    second: wing137_25
+  - first:
+      213: 21300052
+    second: wing137_26
+  - first:
+      213: 21300054
+    second: wing137_27
+  - first:
+      213: 21300056
+    second: wing137_28
+  - first:
+      213: 21300058
+    second: wing137_29
+  - first:
+      213: 21300060
+    second: wing137_30
+  - first:
+      213: 21300062
+    second: wing137_31
+  - first:
+      213: 21300064
+    second: wing137_32
+  - first:
+      213: 21300066
+    second: wing137_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wing137_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084e58b0d6bf5c3419218cfe83103a03
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 650
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffd9c032f662ff449e1c8a24cbbfa3b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 650
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338f63a0e087144894af87b3f0a066c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 650
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599714c00ca40e74b8f234995c4a7def
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_4
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 650
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87039058df8654b83485f32d57d169
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 650
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eefcc1f7f375684c8b1708fcae84e24
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c41906286ee154ca452db233d4d9f7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 520
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e948e0710c7aa458218aa4e1057f12
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 520
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0445bc753b1ea44a8babf020ad8c2cf
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 520
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8a94970d4e254295400f7e706a5c3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 520
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c303473d5a874cbab8db5b3cf6518
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_11
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 520
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c662b86012315442b653c4ce8c53b50
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72cd659ad81c84d8130c343070d7ae
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 390
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47282b55a46ec344914a0eb8fceb130
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 390
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f035cbc268be4043b8cdd2070d9245d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 390
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9d1f3a0d8847409362e6e9c748901
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 390
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720952f76b023a64599edeccdb1d1632
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_17
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 390
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780690fe88645a84ead4f9b173d16369
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c9756fa1b5b34bb9263d5cfbbea04
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 260
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c89edc445ff049b80f61c87524908
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 260
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256479fc9efcd9f4e8eb8cb576033356
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 260
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5511a14b3ec764ca36b8ea9d30bff5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_22
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 260
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de080fc6da7f2cd45af0946354977a1c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_23
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 260
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bfe7a836b0cd14eb0efb9f8b57a844
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8b8fce1f5bf1498464574598588a7
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 130
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e78d5584aeab4ab7c877bc2a2c415
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 130
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c14820c21fffa4e996b803e69b5c7a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_27
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 130
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442951f0e6a062f489e0297025dbed70
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 130
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a912f0040d5fed4db0f894459371f76
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_29
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 130
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284c5335e34fc3489db699ee9a5914a
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62a071e74df4448b070bd3a4f175af
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9751e629abb02c49a28a37e29b63e5b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324bec916e870ce4db040dee1b430d66
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing137_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 214
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f969ff7fcf224ab8bd8b0d2bb1ce9
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18cb635d4bc5cfd4d96edceb922eb399
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wing137_0: 21300000
+      wing137_1: 21300002
+      wing137_10: 21300020
+      wing137_11: 21300022
+      wing137_12: 21300024
+      wing137_13: 21300026
+      wing137_14: 21300028
+      wing137_15: 21300030
+      wing137_16: 21300032
+      wing137_17: 21300034
+      wing137_18: 21300036
+      wing137_19: 21300038
+      wing137_2: 21300004
+      wing137_20: 21300040
+      wing137_21: 21300042
+      wing137_22: 21300044
+      wing137_23: 21300046
+      wing137_24: 21300048
+      wing137_25: 21300050
+      wing137_26: 21300052
+      wing137_27: 21300054
+      wing137_28: 21300056
+      wing137_29: 21300058
+      wing137_3: 21300006
+      wing137_30: 21300060
+      wing137_31: 21300062
+      wing137_32: 21300064
+      wing137_33: 21300066
+      wing137_4: 21300008
+      wing137_5: 21300010
+      wing137_6: 21300012
+      wing137_7: 21300014
+      wing137_8: 21300016
+      wing137_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

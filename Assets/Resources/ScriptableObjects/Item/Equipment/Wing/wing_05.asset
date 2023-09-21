@@ -20,8 +20,8 @@ MonoBehaviour:
   itemDescription: "Ch\u01A1i x\u1EA5u l\xE0 b\u1ECB ch\u1EB7t tay"
   maxStackSize: 1
   itemSlot: 9
-  itemShow: {fileID: 21300020, guid: 697c8d482b3aa1947b6cc14234c9db77, type: 3}
+  itemShow: {fileID: 21300000, guid: 17d70ee7a99022d4f8c25ec46b260ffa, type: 3}
   itemStats: []
   canUpgrade: 1
   itemStrength: 0
-  itemStrengthImg: {fileID: 21300000, guid: 1f44c2cbb82680a4d9ecc7471ecef8d6, type: 3}
+  itemStrengthImg: {fileID: 21300000, guid: 7168f9055db4c5a4485396a59006994a, type: 3}

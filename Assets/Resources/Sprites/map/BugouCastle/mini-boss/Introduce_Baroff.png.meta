@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 9f27913b2f16ad44b8e38e742bdfba44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Introduce_Baroff_0
+  - first:
+      213: 21300002
+    second: Introduce_Baroff_1
+  - first:
+      213: 21300004
+    second: Introduce_Baroff_2
+  - first:
+      213: 21300006
+    second: Introduce_Baroff_3
+  - first:
+      213: 21300008
+    second: Introduce_Baroff_4
+  - first:
+      213: 21300010
+    second: Introduce_Baroff_5
+  - first:
+      213: 21300012
+    second: Introduce_Baroff_6
+  - first:
+      213: 21300014
+    second: Introduce_Baroff_7
+  - first:
+      213: 21300016
+    second: Introduce_Baroff_8
+  - first:
+      213: 21300018
+    second: Introduce_Baroff_9
+  - first:
+      213: 21300020
+    second: Introduce_Baroff_10
+  - first:
+      213: 21300022
+    second: Introduce_Baroff_11
+  - first:
+      213: 21300024
+    second: Introduce_Baroff_12
+  - first:
+      213: 21300026
+    second: Introduce_Baroff_13
+  - first:
+      213: 21300028
+    second: Introduce_Baroff_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Introduce_Baroff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca81edd76a09fb4c98c8fc53a9d4cfd
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 516
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea924c3da080c644b12823e2f035df3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 516
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b40d3cf5dcb64bbec700b7b6f76d0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_3
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 516
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11d19555c6eff46b3b62a29d50a8ed
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8b38b9181cf84cb361440bf22b139
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 344
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea0994fba0447841b52b58c9cad5eb7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 344
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33120481238b424293808a2a75ff1f6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_7
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 344
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dbf48337b46354a9496e35020dbe6c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b20ff4a1d45ba4ab9e4ce9abfae8b9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 172
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c09b1f5eba974588504583acce785
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_10
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 172
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a16dbb8069cf44ca8589313189d4a0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_11
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 172
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e48504c7b93cc478b669825ddcda3c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b4cc898a4001498827b0a0e496a8c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eae4e6b743c2b42843a33f83165898
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Baroff_14
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 575
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c042da15a30f418ac16b6d4e3fa22
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa493eb34dcc37243b182068aa68f439
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Introduce_Baroff_0: 21300000
+      Introduce_Baroff_1: 21300002
+      Introduce_Baroff_10: 21300020
+      Introduce_Baroff_11: 21300022
+      Introduce_Baroff_12: 21300024
+      Introduce_Baroff_13: 21300026
+      Introduce_Baroff_14: 21300028
+      Introduce_Baroff_2: 21300004
+      Introduce_Baroff_3: 21300006
+      Introduce_Baroff_4: 21300008
+      Introduce_Baroff_5: 21300010
+      Introduce_Baroff_6: 21300012
+      Introduce_Baroff_7: 21300014
+      Introduce_Baroff_8: 21300016
+      Introduce_Baroff_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

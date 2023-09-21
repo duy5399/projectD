@@ -14,15 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemID: face_01
   itemType: 0
-  itemIcon: {fileID: 21300000, guid: 947254a8d7628ab4b86cfcaf520bcc97, type: 3}
-  itemName: Trap boy
+  itemIcon: {fileID: 21300000, guid: 70e707da26303b947862a21ee1da4974, type: 3}
+  itemName: "V\xF4 tri"
   itemTier: 0
-  itemDescription: "\u0110\u01B0\u1EDDng n\xE9t g\u01B0\u01A1ng m\u1EB7t quy\u1EBFt
-    r\u0169, ch\u1EAFc h\u1EB3n l\xE0 m\u1ED9t trapboi th\u1EE9 thi\u1EC7t"
+  itemDescription: "K\u1EBB v\xF4 tri l\xE0 trang tu\u1EA5n ki\u1EC7t."
   maxStackSize: 1
   itemSlot: 5
-  itemShow: {fileID: 21300000, guid: 9cc13515b0cc4d54287b768b271ea6e3, type: 3}
+  itemShow: {fileID: 21300000, guid: 583f2904901ad594288022c0074d4dbb, type: 3}
   itemStats: []
   canUpgrade: 1
   itemStrength: 0
-  itemStrengthImg: {fileID: 21300000, guid: 1f44c2cbb82680a4d9ecc7471ecef8d6, type: 3}
+  itemStrengthImg: {fileID: 21300000, guid: 7168f9055db4c5a4485396a59006994a, type: 3}

@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: 7022c177d9d244a41bd34fdac958f5d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: totem-heal_0
+  - first:
+      213: 21300002
+    second: totem-heal_1
+  - first:
+      213: 21300004
+    second: totem-heal_2
+  - first:
+      213: 21300006
+    second: totem-heal_3
+  - first:
+      213: 21300008
+    second: totem-heal_4
+  - first:
+      213: 21300010
+    second: totem-heal_5
+  - first:
+      213: 21300012
+    second: totem-heal_6
+  - first:
+      213: 21300014
+    second: totem-heal_7
+  - first:
+      213: 21300016
+    second: totem-heal_8
+  - first:
+      213: 21300018
+    second: totem-heal_9
+  - first:
+      213: 21300020
+    second: totem-heal_10
+  - first:
+      213: 21300022
+    second: totem-heal_11
+  - first:
+      213: 21300024
+    second: totem-heal_12
+  - first:
+      213: 21300026
+    second: totem-heal_13
+  - first:
+      213: 21300028
+    second: totem-heal_14
+  - first:
+      213: 21300030
+    second: totem-heal_15
+  - first:
+      213: 21300032
+    second: totem-heal_16
+  - first:
+      213: 21300034
+    second: totem-heal_17
+  - first:
+      213: 21300036
+    second: totem-heal_18
+  - first:
+      213: 21300038
+    second: totem-heal_19
+  - first:
+      213: 21300040
+    second: totem-heal_20
+  - first:
+      213: 21300042
+    second: totem-heal_21
+  - first:
+      213: 21300044
+    second: totem-heal_22
+  - first:
+      213: 21300046
+    second: totem-heal_23
+  - first:
+      213: 21300048
+    second: totem-heal_24
+  - first:
+      213: 21300050
+    second: totem-heal_25
+  - first:
+      213: 21300052
+    second: totem-heal_26
+  - first:
+      213: 21300054
+    second: totem-heal_27
+  - first:
+      213: 21300056
+    second: totem-heal_28
+  - first:
+      213: 21300058
+    second: totem-heal_29
+  - first:
+      213: 21300060
+    second: totem-heal_30
+  - first:
+      213: 21300062
+    second: totem-heal_31
+  - first:
+      213: 21300064
+    second: totem-heal_32
+  - first:
+      213: 21300066
+    second: totem-heal_33
+  - first:
+      213: 21300068
+    second: totem-heal_34
+  - first:
+      213: 21300070
+    second: totem-heal_35
+  - first:
+      213: 21300072
+    second: totem-heal_36
+  - first:
+      213: 21300074
+    second: totem-heal_37
+  - first:
+      213: 21300076
+    second: totem-heal_38
+  - first:
+      213: 21300078
+    second: totem-heal_39
+  - first:
+      213: 21300080
+    second: totem-heal_40
+  - first:
+      213: 21300082
+    second: totem-heal_41
+  - first:
+      213: 21300084
+    second: totem-heal_42
+  - first:
+      213: 21300086
+    second: totem-heal_43
+  - first:
+      213: 21300088
+    second: totem-heal_44
+  - first:
+      213: 21300090
+    second: totem-heal_45
+  - first:
+      213: 21300092
+    second: totem-heal_46
+  - first:
+      213: 21300094
+    second: totem-heal_47
+  - first:
+      213: 21300096
+    second: totem-heal_48
+  - first:
+      213: 21300098
+    second: totem-heal_49
+  - first:
+      213: 21300100
+    second: totem-heal_50
+  - first:
+      213: 21300102
+    second: totem-heal_51
+  - first:
+      213: 21300104
+    second: totem-heal_52
+  - first:
+      213: 21300106
+    second: totem-heal_53
+  - first:
+      213: 21300108
+    second: totem-heal_54
+  - first:
+      213: 21300110
+    second: totem-heal_55
+  - first:
+      213: 21300112
+    second: totem-heal_56
+  - first:
+      213: 21300114
+    second: totem-heal_57
+  - first:
+      213: 21300116
+    second: totem-heal_58
+  - first:
+      213: 21300118
+    second: totem-heal_59
+  - first:
+      213: 21300120
+    second: totem-heal_60
+  - first:
+      213: 21300122
+    second: totem-heal_61
+  - first:
+      213: 21300124
+    second: totem-heal_62
+  - first:
+      213: 21300126
+    second: totem-heal_63
+  - first:
+      213: 21300128
+    second: totem-heal_64
+  - first:
+      213: 21300130
+    second: totem-heal_65
+  - first:
+      213: 21300132
+    second: totem-heal_66
+  - first:
+      213: 21300134
+    second: totem-heal_67
+  - first:
+      213: 21300136
+    second: totem-heal_68
+  - first:
+      213: 21300138
+    second: totem-heal_69
+  - first:
+      213: 21300140
+    second: totem-heal_70
+  - first:
+      213: 21300142
+    second: totem-heal_71
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totem-heal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33efbf81ed15b804baed8de191d19820
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb543fd1ddc044d8ae456fe164b47a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f167f2ef9db76d4788b76dd7959462f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c1cfc7511157d4e821fb64ca60782a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c34348fa74d74e8f8547c5ded7a42
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_5
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072baf256ef5a1740aa6b4b844182430
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_6
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea46909b5efa19448246ee6e811c8a6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b34c930d8633b4eaa3b8a267eeb16d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1008
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03098e0f5a5bb488b75bf51d3bd9e4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90446c6a4d17cf6408445227cbcbd6a4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f7499dd371e6a4d91592fa68272cac
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ddf6b713f84245b23d69b581f9149
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3002329d73ad4faadd70c002da2ca
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc8622b85d4fc846b30ddf9d2325063
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91845aa38482f0d4783b89d7db81c01d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_15
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99001d3625e94e54ab3d3fb52a1c3f83
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_16
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7307a8af31e704da18022053bdfd00
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_17
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 864
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8a84f75a448545af360ef8049357c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da834d44078894daa966aba55fef9e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc575782692075438a866f46f198d59
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfa04bc3ca8e140b3ad8bdff5239d4
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefe223bb75d4e242a875a60ae4e7574
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_22
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f80dd21599c545a911008af346b1f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_23
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f101e46de98b64094945195a9239e9
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_24
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f71451083bbf42bf33d236f91d98c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_25
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9e51cd9b70224b973e3804df4e15e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_26
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 720
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df92ddb8e9452954da45e0ef572d8d45
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b1a40c4a70064d9f67b70112972d6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee87840513b4604da34479128b107a8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497dcd1b2ae0dc44898ccdc86e00a128
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_30
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b45fdd088a1a641a6fab93ec9d88aa
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_31
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f808b13664694eac3a77dd3a3f2cd
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_32
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b244029e8eb74f9cc50b025049071
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_33
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02874282ac80b9c4ba95edb394e84748
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_34
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfaa0a947b627742bdb79c2f9706104
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_35
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 576
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abfaccf57289a04eb1d6aae4f065cc8
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb25f66b50de94fa3cc19c8750e33c
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12ec9bd83c56c4e9a0f8f76cd5c077
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a491f106e03a27c45aaf6c6d13c08a2d
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_39
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133c660a19b62347ae36123a91dd945
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_40
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30f2826f26ac940b74f40d7083445d
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_41
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5111841b0e58940bab78a16fd64872
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_42
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4deb279d90e4624086d703562531ef1
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_43
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a30d5b6feb394b93f2c147bf91c24
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_44
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 432
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5736ded2ce2cc4bb48f0e64f46ff50
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485aca3f7ec7f84a9b9c2d7a187ed24
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738a44e01bf65f140adb973d7ded8ac6
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867cd4817aa166a4fb719b567fe9340d
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_48
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abf8d7c77c3e444984934747f11f3fc
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_49
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca4cca3f446ad459c069db442a668d
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_50
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bbb7e17d72c0d46ad972ba3a53214c
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_51
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c043131fdbc17ea429aca4981f73cb2d
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_52
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65fb1593b8068940a975168da7510c1
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_53
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 288
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc35504f7980c642a0bedc9c330c91b
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1132f6842e0a51498b9bcd0d93faa29
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522802e7359ac134dbf6910e1a8e32e6
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_56
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10415c788076ad4d89bb3d07d496ada
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_57
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08f1c1369be374b9f5558436075f54
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_58
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe6ca348fd1d04dacdcad53fe96f15
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_59
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207e82b10d791a43a875877481fdefa
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_60
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0da725d01fe5940a89953007623ca3
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_61
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20eb4d040acf6847b79f47121a237ca
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_62
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 144
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7bc3a553f47b0439ce02482777a368
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76036004ddb298b4cb1e9762c4f62dd3
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0bdb219915b3e40abe412ef4506772
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cb0db24bd73440b1d1c8b004d487e
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_66
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572646cc6b3e01d44b3b7085e3ba9402
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_67
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3fcc5220cc1544a07c5c102e38632
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_68
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d304b7a63bcb3440aad2e0877e12d5d
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_69
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23388a8ebb1ca044ca109931c6ad4fc4
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_70
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a2d495df0fcb47a28d4728759bf14
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-heal_71
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66ca82ccb99024a8c9c3039a740834
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f2a332ef291a0e24aa21f9779c418683
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      totem-heal_0: 21300000
+      totem-heal_1: 21300002
+      totem-heal_10: 21300020
+      totem-heal_11: 21300022
+      totem-heal_12: 21300024
+      totem-heal_13: 21300026
+      totem-heal_14: 21300028
+      totem-heal_15: 21300030
+      totem-heal_16: 21300032
+      totem-heal_17: 21300034
+      totem-heal_18: 21300036
+      totem-heal_19: 21300038
+      totem-heal_2: 21300004
+      totem-heal_20: 21300040
+      totem-heal_21: 21300042
+      totem-heal_22: 21300044
+      totem-heal_23: 21300046
+      totem-heal_24: 21300048
+      totem-heal_25: 21300050
+      totem-heal_26: 21300052
+      totem-heal_27: 21300054
+      totem-heal_28: 21300056
+      totem-heal_29: 21300058
+      totem-heal_3: 21300006
+      totem-heal_30: 21300060
+      totem-heal_31: 21300062
+      totem-heal_32: 21300064
+      totem-heal_33: 21300066
+      totem-heal_34: 21300068
+      totem-heal_35: 21300070
+      totem-heal_36: 21300072
+      totem-heal_37: 21300074
+      totem-heal_38: 21300076
+      totem-heal_39: 21300078
+      totem-heal_4: 21300008
+      totem-heal_40: 21300080
+      totem-heal_41: 21300082
+      totem-heal_42: 21300084
+      totem-heal_43: 21300086
+      totem-heal_44: 21300088
+      totem-heal_45: 21300090
+      totem-heal_46: 21300092
+      totem-heal_47: 21300094
+      totem-heal_48: 21300096
+      totem-heal_49: 21300098
+      totem-heal_5: 21300010
+      totem-heal_50: 21300100
+      totem-heal_51: 21300102
+      totem-heal_52: 21300104
+      totem-heal_53: 21300106
+      totem-heal_54: 21300108
+      totem-heal_55: 21300110
+      totem-heal_56: 21300112
+      totem-heal_57: 21300114
+      totem-heal_58: 21300116
+      totem-heal_59: 21300118
+      totem-heal_6: 21300012
+      totem-heal_60: 21300120
+      totem-heal_61: 21300122
+      totem-heal_62: 21300124
+      totem-heal_63: 21300126
+      totem-heal_64: 21300128
+      totem-heal_65: 21300130
+      totem-heal_66: 21300132
+      totem-heal_67: 21300134
+      totem-heal_68: 21300136
+      totem-heal_69: 21300138
+      totem-heal_7: 21300014
+      totem-heal_70: 21300140
+      totem-heal_71: 21300142
+      totem-heal_8: 21300016
+      totem-heal_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

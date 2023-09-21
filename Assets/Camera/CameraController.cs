@@ -1,14 +1,13 @@
-﻿using System;
+﻿using Photon.Pun;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Experimental.PlayerLoop;
 using UnityEngine.SocialPlatforms;
 
 public class CameraController : MonoBehaviour
 {
     public static CameraController instance {  get; private set; }
-
     [SerializeField] private GameObject targetPlayer;
     [SerializeField] private float smoothSpeed;
     [SerializeField] private Vector3 offset;
@@ -20,6 +19,10 @@ public class CameraController : MonoBehaviour
     [SerializeField] private bool introduceBoss;
 
     [SerializeField] private float timeNextAction;
+
+    [SerializeField] private int numberOfBoss;
+
+    [SerializeField] private Transform panel;
 
     public bool introduceBoss_ => introduceBoss;
 
@@ -35,11 +38,18 @@ public class CameraController : MonoBehaviour
         }
         targetMiniBoss.AddRange(GameObject.FindGameObjectsWithTag("MiniBoss"));
         targetBoss.AddRange(GameObject.FindGameObjectsWithTag("Boss"));
-        targetPlayer = GameObject.FindGameObjectWithTag("Player");
         smoothSpeed = 10f;
         offset = new Vector3(0, 0, -5);
-        introduceBoss = true;
         timeNextAction = 0f;
+        numberOfBoss = 0;
+        if(targetBoss.Count > 0 || targetMiniBoss.Count > 0)
+        {
+            introduceBoss = true;
+        }
+        else
+        {
+            introduceBoss = false;
+        }
     }
 
     void Start()
@@ -50,9 +60,22 @@ public class CameraController : MonoBehaviour
     // LateUpdate is called after function Update
     void LateUpdate()
     {
+        if(targetPlayer == null)
+        {
+            try
+            {
+                targetPlayer = PhotonNetwork.LocalPlayer.TagObject as GameObject;
+            }
+            catch
+            {
+                Debug.Log("Không tìm thấy targetPlayer");
+            }
+        }
         if (introduceBoss)
         {
-            PlayerMovement.instance.SetMoveSpeed(0f);
+            panel.gameObject.SetActive(true);
+            //PlayerMovement.instance.SetMoveSpeed(0f);
+            //PlayerMovement.instance.SetCanDash(false);
             timeNextAction += Time.deltaTime;
             if (timeNextAction < 2f)
             {
@@ -65,7 +88,14 @@ public class CameraController : MonoBehaviour
         }
         else
         {
-            CameraFollowTarget(targetPlayer);
+            try
+            {
+                CameraFollowTarget(targetPlayer);
+            }
+            catch (Exception e)
+            {
+                Debug.Log(e);
+            }
         }
     }
 
@@ -84,7 +114,7 @@ public class CameraController : MonoBehaviour
         {
             this.transform.position = new Vector3(smoothedPosition.x, 0, smoothedPosition.z);
         }
-        Debug.Log("_target: " + _target.name);
+        //Debug.Log("_target: " + _target.name);
     }
 
     //giới thiệu các boss
@@ -92,7 +122,7 @@ public class CameraController : MonoBehaviour
     {
         if (introduceBoss)
         {
-            if (targetMiniBoss.Count > 0)
+            if (numberOfBoss < targetMiniBoss.Count)
             {
                 for (int i = 0; i < targetMiniBoss.Count; i++)
                 {
@@ -100,9 +130,10 @@ public class CameraController : MonoBehaviour
                     yield return new WaitForSeconds(0.5f);
                     UIController.instance.OnIntroduceBoss(targetMiniBoss[i].name);
                     yield return new WaitForSeconds(UIController.instance.GetAnim().GetCurrentAnimatorStateInfo(0).length + 1f);
+                    numberOfBoss++;
                 }
             }
-            if (targetBoss.Count > 0)
+            else
             {
                 for (int i = 0; i < targetBoss.Count; i++)
                 {
@@ -112,7 +143,9 @@ public class CameraController : MonoBehaviour
                     yield return new WaitForSeconds(UIController.instance.GetAnim().GetCurrentAnimatorStateInfo(0).length + 1f);
                     if (targetBoss[i] == targetBoss[targetBoss.Count - 1])
                     {
-                        PlayerMovement.instance.SetMoveSpeed(6f);
+                        //PlayerMovement.instance.SetMoveSpeed(6f);
+                        //PlayerMovement.instance.SetCanDash(true);
+                        panel.gameObject.SetActive(false);
                         introduceBoss = false;
                     }
                 }

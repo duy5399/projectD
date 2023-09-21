@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd29d35fa0de94048beb854e5f8a5b95, type: 3}
+  m_Name: CungDienGa-Normal
+  m_EditorClassIdentifier: 
+  mapIndex: 2
+  mapIdRewards: bugouCastle_Normal
+  mapName: "Cung \u0110i\u1EC7n G\xE0"
+  mapDescription: 
+  mapImage: {fileID: 21300000, guid: 2bc01a6480f1ec945863901a3e906ed1, type: 3}
+  sceneToLoad: 1
+  mapDifficulty: 1
+  mapMiniBoss:
+  - bossPrefab: {fileID: 8189815594640184480, guid: cd29b5d4f9c2f0f42816c2dbee428a4f,
+      type: 3}
+    bossInfo: {fileID: 11400000, guid: 3e7040272ae4f68428bf9475f6f54ed4, type: 2}
+  mapBoss:
+  - bossPrefab: {fileID: 5092553031374659084, guid: 99b784c92dbaabc49bdce597c1740ceb,
+      type: 3}
+    bossInfo: {fileID: 11400000, guid: cd742f2ab69a2a3409526a0524ef72ff, type: 2}
+  mapRewards:
+  - itemName: head_06
+    itemIcon: {fileID: 21300000, guid: f4bc38453ad94a4499e316c48bcf48a8, type: 3}
+    itemTier: uncommon
+    quantity: 1
+    dropRate: 20
+  - itemName: offhand_01
+    itemIcon: {fileID: 21300000, guid: 953d47946c17281409df54c900de3135, type: 3}
+    itemTier: uncommon
+    quantity: 1
+    dropRate: 20
+  - itemName: strengthStone_02
+    itemIcon: {fileID: 21300000, guid: f3733db56d7680844a8fb4169f0709f5, type: 3}
+    itemTier: uncommon
+    quantity: 1
+    dropRate: 20
+  - itemName: gold_01
+    itemIcon: {fileID: 21300000, guid: 06f3f24e894ec334d9a57a0d7800c403, type: 3}
+    itemTier: epic
+    quantity: 500
+    dropRate: 40
+  mapTime: 180
+  mapEnergy: 10

@@ -40,6 +40,7 @@ public class MaterialSO : ItemSO
 
 public enum ItemUses
 {
+    None,
     Upgrade,
     Enchant
 }

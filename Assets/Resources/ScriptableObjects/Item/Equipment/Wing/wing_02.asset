@@ -20,8 +20,8 @@ MonoBehaviour:
   itemDescription: "Su\u1ED1t ng\xE0y n\u1EB1m ng\u1EE7"
   maxStackSize: 1
   itemSlot: 9
-  itemShow: {fileID: 21300000, guid: 11784f6c99d5a194fbfc587f7611e736, type: 3}
+  itemShow: {fileID: 21300000, guid: 76c52c809eb6ff64c9809a89acc04672, type: 3}
   itemStats: []
   canUpgrade: 1
   itemStrength: 0
-  itemStrengthImg: {fileID: 21300000, guid: 1f44c2cbb82680a4d9ecc7471ecef8d6, type: 3}
+  itemStrengthImg: {fileID: 21300000, guid: 7168f9055db4c5a4485396a59006994a, type: 3}

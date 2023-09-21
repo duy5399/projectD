@@ -78,6 +78,11 @@ public class EquipmentSO : ItemSO
         itemID = _idItem;
     }
 
+    public void SetItemIcon(Sprite _itemIcon)
+    {
+        itemIcon = _itemIcon;
+    }
+
     public void SetTier(RarityTier _tier)
     {
         itemTier = _tier;
@@ -243,16 +248,16 @@ public class Stats{
 
 public enum ItemSlots
 { 
-    Weapon, 
-    Offhand, 
-    Head, 
-    Hair, 
-    Glass, 
-    Face, 
-    Armlet, 
-    Ring, 
-    Cloth, 
-    Wing 
+    weapon, 
+    offhand, 
+    head, 
+    hair, 
+    glass, 
+    face, 
+    armlet, 
+    ring, 
+    cloth, 
+    wing 
 }
 
 public enum Attributes

@@ -15,9 +15,10 @@ MonoBehaviour:
   itemID: godCharm
   itemType: 1
   itemIcon: {fileID: 21300000, guid: 0487c5308b544e54eb8a6d51c2cb919d, type: 3}
-  itemName: 1
+  itemName: "B\xF9a ma thu\u1EADt"
   itemTier: 4
-  itemDescription: 1
+  itemDescription: "Gi\xFAp trang b\u1ECB kh\xF4ng b\u1ECB gi\u1EA3m c\u1EA5p khi
+    c\u01B0\u1EDDng h\xF3a th\u1EA5t b\u1EA1i"
   maxStackSize: 99
-  itemUses: 0
+  itemUses: 1
   canCombine: 0

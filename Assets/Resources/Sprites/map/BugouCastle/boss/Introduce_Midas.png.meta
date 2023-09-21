@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 8a9d5400be36bc340bbefb50bd496dfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Introduce_Midas_0
+  - first:
+      213: 21300002
+    second: Introduce_Midas_1
+  - first:
+      213: 21300004
+    second: Introduce_Midas_2
+  - first:
+      213: 21300006
+    second: Introduce_Midas_3
+  - first:
+      213: 21300008
+    second: Introduce_Midas_4
+  - first:
+      213: 21300010
+    second: Introduce_Midas_5
+  - first:
+      213: 21300012
+    second: Introduce_Midas_6
+  - first:
+      213: 21300014
+    second: Introduce_Midas_7
+  - first:
+      213: 21300016
+    second: Introduce_Midas_8
+  - first:
+      213: 21300018
+    second: Introduce_Midas_9
+  - first:
+      213: 21300020
+    second: Introduce_Midas_10
+  - first:
+      213: 21300022
+    second: Introduce_Midas_11
+  - first:
+      213: 21300024
+    second: Introduce_Midas_12
+  - first:
+      213: 21300026
+    second: Introduce_Midas_13
+  - first:
+      213: 21300028
+    second: Introduce_Midas_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Introduce_Midas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728f403660459043bb4f31b54b7855a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 516
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14cbf69f082384eb70deebebf52330
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 516
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6909a8cfeac64fa3a84cd242a8142
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 516
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ae6e658baf834f9266c06b3e2bd52
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b92d0f8963dbf47967a58b63e92ce6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 344
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143dc9eb802a164e815709697d30738
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_6
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 344
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49623fea09f52b745a67a973b8553a18
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_7
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 344
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c347226a554efd40a2a590cbaaf75ce
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250acabba2261da4c8eaa8185a004b60
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 172
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08659d57fc4276a4c8af0b763e6c80b8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_10
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 172
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4649c1d2cb4efc74babd9f0e1e5177f3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_11
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 172
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232158e4f2eb5ca48b368438ae7b432e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64eb0758dc4a5846859a01fa4720410
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee562ee7638fd41969980a190d68d2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Introduce_Midas_14
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 583
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1383702bc8bd3d74a8638abe045c71b6
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f9c0b1d92fba4842a7e79eca8aa5c63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Introduce_Midas_0: 21300000
+      Introduce_Midas_1: 21300002
+      Introduce_Midas_10: 21300020
+      Introduce_Midas_11: 21300022
+      Introduce_Midas_12: 21300024
+      Introduce_Midas_13: 21300026
+      Introduce_Midas_14: 21300028
+      Introduce_Midas_2: 21300004
+      Introduce_Midas_3: 21300006
+      Introduce_Midas_4: 21300008
+      Introduce_Midas_5: 21300010
+      Introduce_Midas_6: 21300012
+      Introduce_Midas_7: 21300014
+      Introduce_Midas_8: 21300016
+      Introduce_Midas_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

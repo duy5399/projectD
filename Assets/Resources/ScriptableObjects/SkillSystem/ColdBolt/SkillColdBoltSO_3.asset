@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5773e4b0c2d17de4f8b010387d474b55, type: 3}
+  m_Name: SkillColdBoltSO_3
+  m_EditorClassIdentifier: 
+  strSkillID: SkillColdBoltSO_3
+  sprSkillIcon: {fileID: 21300000, guid: 7ca275c5b9a9be444800677b3b122406, type: 3}
+  strSkillName: "M\u0169i T\xEAn B\u0103ng"
+  strSkillDescription: "B\u1EAFn ra m\u1ED9t m\u0169i t\xEAn b\u0103ng lao th\u1EB3ng
+    v\u1EC1 ph\xEDa tr\u01B0\u1EDBc, g\xE2y ST t\u01B0\u01A1ng \u0111\u01B0\u01A1ng
+    <b><color=#e3284a>15% HP</color></b> c\u1EE7a k\u1EBB \u0111\u1ECBch \u0111\u1EA7u
+    ti\xEAn tr\xFAng ph\u1EA3i."
+  strSkillLevel: 3
+  intMPCost: 60
+  strSkillType: active
+  floatCooldown: 3
+  floatEffectDuration: 5
+  goSkillEffect: {fileID: 1718471302102193628, guid: f339d4460d867b14ca06d4ff1833efb4,
+    type: 3}
+  floatFlatHealingHP: 0
+  floatPercentageHealingHP: 0
+  floatFlatMPRecovery: 0
+  floatPercentageMPRecovery: 0
+  floatFlatDamage: 0
+  floatPercentageDamage: 0.15
+  floatFlatAttack: 0
+  floatPercentageAttack: 0
+  floatFlatShield: 0
+  floatPercentageShield: 0

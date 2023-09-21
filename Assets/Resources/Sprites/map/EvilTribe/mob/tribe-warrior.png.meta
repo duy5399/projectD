@@ -1,0 +1,3327 @@
+fileFormatVersion: 2
+guid: 62677666182515242819099529788620
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: tribe-warrior_0
+  - first:
+      213: 21300002
+    second: tribe-warrior_1
+  - first:
+      213: 21300004
+    second: tribe-warrior_2
+  - first:
+      213: 21300006
+    second: tribe-warrior_3
+  - first:
+      213: 21300008
+    second: tribe-warrior_4
+  - first:
+      213: 21300010
+    second: tribe-warrior_5
+  - first:
+      213: 21300012
+    second: tribe-warrior_6
+  - first:
+      213: 21300014
+    second: tribe-warrior_7
+  - first:
+      213: 21300016
+    second: tribe-warrior_8
+  - first:
+      213: 21300018
+    second: tribe-warrior_9
+  - first:
+      213: 21300020
+    second: tribe-warrior_10
+  - first:
+      213: 21300022
+    second: tribe-warrior_11
+  - first:
+      213: 21300024
+    second: tribe-warrior_12
+  - first:
+      213: 21300026
+    second: tribe-warrior_13
+  - first:
+      213: 21300028
+    second: tribe-warrior_14
+  - first:
+      213: 21300030
+    second: tribe-warrior_15
+  - first:
+      213: 21300032
+    second: tribe-warrior_16
+  - first:
+      213: 21300034
+    second: tribe-warrior_17
+  - first:
+      213: 21300036
+    second: tribe-warrior_18
+  - first:
+      213: 21300038
+    second: tribe-warrior_19
+  - first:
+      213: 21300040
+    second: tribe-warrior_20
+  - first:
+      213: 21300042
+    second: tribe-warrior_21
+  - first:
+      213: 21300044
+    second: tribe-warrior_22
+  - first:
+      213: 21300046
+    second: tribe-warrior_23
+  - first:
+      213: 21300048
+    second: tribe-warrior_24
+  - first:
+      213: 21300050
+    second: tribe-warrior_25
+  - first:
+      213: 21300052
+    second: tribe-warrior_26
+  - first:
+      213: 21300054
+    second: tribe-warrior_27
+  - first:
+      213: 21300056
+    second: tribe-warrior_28
+  - first:
+      213: 21300058
+    second: tribe-warrior_29
+  - first:
+      213: 21300060
+    second: tribe-warrior_30
+  - first:
+      213: 21300062
+    second: tribe-warrior_31
+  - first:
+      213: 21300064
+    second: tribe-warrior_32
+  - first:
+      213: 21300066
+    second: tribe-warrior_33
+  - first:
+      213: 21300068
+    second: tribe-warrior_34
+  - first:
+      213: 21300070
+    second: tribe-warrior_35
+  - first:
+      213: 21300072
+    second: tribe-warrior_36
+  - first:
+      213: 21300074
+    second: tribe-warrior_37
+  - first:
+      213: 21300076
+    second: tribe-warrior_38
+  - first:
+      213: 21300078
+    second: tribe-warrior_39
+  - first:
+      213: 21300080
+    second: tribe-warrior_40
+  - first:
+      213: 21300082
+    second: tribe-warrior_41
+  - first:
+      213: 21300084
+    second: tribe-warrior_42
+  - first:
+      213: 21300086
+    second: tribe-warrior_43
+  - first:
+      213: 21300088
+    second: tribe-warrior_44
+  - first:
+      213: 21300090
+    second: tribe-warrior_45
+  - first:
+      213: 21300092
+    second: tribe-warrior_46
+  - first:
+      213: 21300094
+    second: tribe-warrior_47
+  - first:
+      213: 21300096
+    second: tribe-warrior_48
+  - first:
+      213: 21300098
+    second: tribe-warrior_49
+  - first:
+      213: 21300100
+    second: tribe-warrior_50
+  - first:
+      213: 21300102
+    second: tribe-warrior_51
+  - first:
+      213: 21300104
+    second: tribe-warrior_52
+  - first:
+      213: 21300106
+    second: tribe-warrior_53
+  - first:
+      213: 21300108
+    second: tribe-warrior_54
+  - first:
+      213: 21300110
+    second: tribe-warrior_55
+  - first:
+      213: 21300112
+    second: tribe-warrior_56
+  - first:
+      213: 21300114
+    second: tribe-warrior_57
+  - first:
+      213: 21300116
+    second: tribe-warrior_58
+  - first:
+      213: 21300118
+    second: tribe-warrior_59
+  - first:
+      213: 21300120
+    second: tribe-warrior_60
+  - first:
+      213: 21300122
+    second: tribe-warrior_61
+  - first:
+      213: 21300124
+    second: tribe-warrior_62
+  - first:
+      213: 21300126
+    second: tribe-warrior_63
+  - first:
+      213: 21300128
+    second: tribe-warrior_64
+  - first:
+      213: 21300130
+    second: tribe-warrior_65
+  - first:
+      213: 21300132
+    second: tribe-warrior_66
+  - first:
+      213: 21300134
+    second: tribe-warrior_67
+  - first:
+      213: 21300136
+    second: tribe-warrior_68
+  - first:
+      213: 21300138
+    second: tribe-warrior_69
+  - first:
+      213: 21300140
+    second: tribe-warrior_70
+  - first:
+      213: 21300142
+    second: tribe-warrior_71
+  - first:
+      213: 21300144
+    second: tribe-warrior_72
+  - first:
+      213: 21300146
+    second: tribe-warrior_73
+  - first:
+      213: 21300148
+    second: tribe-warrior_74
+  - first:
+      213: 21300150
+    second: tribe-warrior_75
+  - first:
+      213: 21300152
+    second: tribe-warrior_76
+  - first:
+      213: 21300154
+    second: tribe-warrior_77
+  - first:
+      213: 21300156
+    second: tribe-warrior_78
+  - first:
+      213: 21300158
+    second: tribe-warrior_79
+  - first:
+      213: 21300160
+    second: tribe-warrior_80
+  - first:
+      213: 21300162
+    second: tribe-warrior_81
+  - first:
+      213: 21300164
+    second: tribe-warrior_82
+  - first:
+      213: 21300166
+    second: tribe-warrior_83
+  - first:
+      213: 21300168
+    second: tribe-warrior_84
+  - first:
+      213: 21300170
+    second: tribe-warrior_85
+  - first:
+      213: 21300172
+    second: tribe-warrior_86
+  - first:
+      213: 21300174
+    second: tribe-warrior_87
+  - first:
+      213: 21300176
+    second: tribe-warrior_88
+  - first:
+      213: 21300178
+    second: tribe-warrior_89
+  - first:
+      213: 21300180
+    second: tribe-warrior_90
+  - first:
+      213: 21300182
+    second: tribe-warrior_91
+  - first:
+      213: 21300184
+    second: tribe-warrior_92
+  - first:
+      213: 21300186
+    second: tribe-warrior_93
+  - first:
+      213: 21300188
+    second: tribe-warrior_94
+  - first:
+      213: 21300190
+    second: tribe-warrior_95
+  - first:
+      213: 21300192
+    second: tribe-warrior_96
+  - first:
+      213: 21300194
+    second: tribe-warrior_97
+  - first:
+      213: 21300196
+    second: tribe-warrior_98
+  - first:
+      213: 21300198
+    second: tribe-warrior_99
+  - first:
+      213: 21300200
+    second: tribe-warrior_100
+  - first:
+      213: 21300202
+    second: tribe-warrior_101
+  - first:
+      213: 21300204
+    second: tribe-warrior_102
+  - first:
+      213: 21300206
+    second: tribe-warrior_103
+  - first:
+      213: 21300208
+    second: tribe-warrior_104
+  - first:
+      213: 21300210
+    second: tribe-warrior_105
+  - first:
+      213: 21300212
+    second: tribe-warrior_106
+  - first:
+      213: 21300214
+    second: tribe-warrior_107
+  - first:
+      213: 21300216
+    second: tribe-warrior_108
+  - first:
+      213: 21300218
+    second: tribe-warrior_109
+  - first:
+      213: 21300220
+    second: tribe-warrior_110
+  - first:
+      213: 21300222
+    second: tribe-warrior_111
+  - first:
+      213: 21300224
+    second: tribe-warrior_112
+  - first:
+      213: 21300226
+    second: tribe-warrior_113
+  - first:
+      213: 21300228
+    second: tribe-warrior_114
+  - first:
+      213: 21300230
+    second: tribe-warrior_115
+  - first:
+      213: 21300232
+    second: tribe-warrior_116
+  - first:
+      213: 21300234
+    second: tribe-warrior_117
+  - first:
+      213: 21300236
+    second: tribe-warrior_118
+  - first:
+      213: 21300238
+    second: tribe-warrior_119
+  - first:
+      213: 21300240
+    second: tribe-warrior_120
+  - first:
+      213: 21300242
+    second: tribe-warrior_121
+  - first:
+      213: 21300244
+    second: tribe-warrior_122
+  - first:
+      213: 21300246
+    second: tribe-warrior_123
+  - first:
+      213: 21300248
+    second: tribe-warrior_124
+  - first:
+      213: 21300250
+    second: tribe-warrior_125
+  - first:
+      213: 21300252
+    second: tribe-warrior_126
+  - first:
+      213: 21300254
+    second: tribe-warrior_127
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tribe-warrior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d50cdc098247b4c9e21c2859b40073
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62c30d59dbba94b82027f4c497f840
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41494a659ed9373498edca70e5f77ade
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f2d042ea0d6346aaf832eb01ec250
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9fa198a1c8794f872fb9219b5f7f9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81f6fd50d16cf4384b1e1c69e38731
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda18e6d184f0a24ea83576bb86f15ad
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fd3441376287241b8e586444a5ef73
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acf656aaf4e4ad438371d9a26d758bc
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_9
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c63a1843408d44287114ee30bcfab4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_10
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1342
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac73ab2cf47afb43923936b847cd209
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2f366c4b3d9e44ad9e998fd603a16
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14cfe895ae9414a98ae7aa497d7068
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b59b85fa980d8b4287552f46439e45d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905b77776b8849d48b1eb733604d3425
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572d087181b39040afc4267891280f7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_16
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8639c0f4505946976d0457d4fc2f1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e59d035a59ce4e97669bd387e7927
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_18
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a990361425243418e415e4cdbcb731
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_19
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527808247264a404d85669962f1f4b04
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_20
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b8f4d3c5420c84f95453f1a292ea52
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_21
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1220
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23a878440b3374bb3797cb69606216
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6f1037e45132941a11173a476f8671
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd61b6cfaea773b4da3d4c3d6e53bb73
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e28a37483a468409a526f1b7e1ff17
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573ceb09f112ad4081c1975f724fb65
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58ed1bffe604d46ad6525cff973685
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139f9076ea4bb646b61b2cf351ee1a7
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_28
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce411a11400ac4a48be3b7c56415a906
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_29
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cceb835c850b3489721a4a3bf35a34
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_30
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b0995cb79d9e47bf87f60b0109608
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_31
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df825c509a8a48498a2ce71733019b0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_32
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1098
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb2be6fae0315428ba1220419e7950
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28490ef304245c446ae69b15661fd7d3
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_34
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4f1364143ae34cbf2740c65768590
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fdafc845578904382687e7d5775533
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d55326b357bc4428bf47a2b92af069
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69946b2c77582714a882ee3939561b1e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_38
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406877f3dfe7e740b1625e6add8a185
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_39
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087816284ae29d44c97ade9c0702efd2
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_40
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a646497dad53e44ab829abb5db29b0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_41
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328c100ee0504242ac37ef6f26d37b7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_42
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca93fbb091473a47afbb1a3a6c5733d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_43
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 976
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e79d79cc2ad47428e3e331d78e77fb
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a15b8a9de02cf4b96a198f4b43d916
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa4031a6f94644789a03356d4fb8f8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7b5af85c0d2243a561f6a5407406f
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_47
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e5700337a1db40862939cd58e43ff
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_48
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b6af48e847384abb58396ec92b437
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_49
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f91d2249e27ef4aaf65d11ff4d7955
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_50
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c426c735d130ec4b9ef2160fbf2c666
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_51
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d04d4d9eea0b74490cd6bd07b9f9a7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_52
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf606dbaa35e47944a598a02e4108789
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_53
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430f58b4ef98d1649b8fe6d63346292c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_54
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 854
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b852a8e4027b3b41ab9f7963aba5f6f
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8d88349e30b7740b9e8b624772279b
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_56
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5f858b1242084699ba2d836336f1b
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5902561ea9624aaa0dd8ef4cc2681
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_58
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1b1ec536a11f48baf822fab23d0c7
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_59
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc04c276876e247adc8239112aa6dd
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_60
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c88bb85d9fe74d9578c62fe5d8aab
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_61
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf777adde407eb41be521a8b3ace1dd
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_62
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb8b06295e7444caec6a293d869442
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_63
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e45f0f3981cc0248bb13736a47cbdef
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_64
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925a262c3360ea4b9b7ed17cffb5aa2
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_65
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 732
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80be32364a4e8f44852f7f24d3f7f3f
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a46bab0b218ea449fa18d564cebe73
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_67
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8c7c15ece3374b868b570af86ba7d
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_68
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ae801f2b74174b8b869b35bef2754
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d2e5c4a298c24bae8f6d50f9e2807
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f33b4fb645c9489e91c2db21aa0f0
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_71
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bd305688f6d445be8a95ec68ba827
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_72
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b6aba09101e0f43a2304fa5cb0293d
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_73
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41c67594f03e74cb64f89e152ce558
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_74
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c8d7b4edc5321429e8a3d6ff601e43
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_75
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca9e7713bdb1242a1330fc9bc8c1c4
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_76
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 610
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911704cecf0aba14f9d67e6c3a59286f
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9303608916c9d49ba776469f83eb03
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_78
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac37510a3c6054087aa2421d648531
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_79
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8500415a9f1c48b5d6034ea3894d9
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_80
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5beb8a16222f5429e145bd32916b1f
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_81
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544a5650e6071e4daa54a06ec5e58dd
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_82
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7ce2802b464a43892165a96e22196
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_83
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7794039437bcc48a95579173f1d230
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_84
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb72b7570a34d4699306483b4bba78
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_85
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9d1fdd980de0419ebaa4e5099abb4
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_86
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e16f59ada25d0740bd46ae29194ec7d
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_87
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 488
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c183736c08ef2b4083fcf7312dbbd6d
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bca27ab2253d724a97555b611cab9db
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_89
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbd9216b2c9c3249a6bda75b811415e
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_90
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb77053f47ce445b251fca888ed97f
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_91
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9af97f5a26ef4e8878454b16e4823
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_92
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0052d9e6c2d5f2d40bcd8a0860133126
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_93
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47d02aedf49054cb5276bcac140d4b
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_94
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18547d9e0a617e4bb3fe3e1d701ae79
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_95
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa31738c32c3664e829c6e7f4d0a68c
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_96
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8655ce4660feb47b3ac73cb20812b1
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_97
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b4c800696f51459ced9d6c891ebc5
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_98
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 366
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f88c3ebdc2d6b4aa5491697d1c713a
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3f314a717ef74aaf4be33844c0f55
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_100
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1afb7a106248654c8a63f76e9325b30
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_101
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94df06d47e140a46bad0f9d5f9bd4b0
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_102
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b55b78e1defe44b0b263117a6e504
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_103
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d9530e85bd46499d86b5cc3187114
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_104
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e22f4949f8b9b44949fac794fa3320
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_105
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753f34a0c868fd24ca24d1462c36e5ba
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_106
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d2175f505b57448222f3126a6a2fb
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_107
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970163138f44ac42aed51684f527e12
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_108
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 244
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b817f535bdf5e428c83220bc8ad2a4
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba51fdfb1a4e9044b9139a178bdf173c
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_110
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc4c6d78638cc49ab65024e26a1ae3
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_111
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725566530f6cc9478e1fb09c8333935
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_112
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f0e9d4dbbbbe444b5cbeb3a23d8e11
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_113
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8cfbc271a9354ba7ece2b96e020f0
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_114
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740445cd50ad39147ac36b7be6348821
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_115
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950513bbdfdef1458faff33484ee0a0
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_116
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0352720f1ee83347ad955a647d1a3ea
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_117
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09902cf023689e4589b00104985134e
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_118
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0def35816ffbc7e408a6218f2ed98c23
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_119
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 122
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0075d5e2716da41498207ccb0b35f762
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4c4b3abe1617449fc72f35b0283f1
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_121
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d2ba8bc7398a46bd127597d7f0c7f
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_122
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3704be9e1b3864296cbfa5c5b01e06
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_123
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9601fc2c1d8934a4bb663dc18ddb5cac
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_124
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3412c709743442942b6974d30f9ab
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_125
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1dfd19f76a01489c6929846240b9f
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_126
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b750423f020f1e24ebbaa1b39a20cd0c
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribe-warrior_127
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f04b50982bf840b1d6bd36974b163
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 99eaf1a97e4d7fc4e9bff0992927d361
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tribe-warrior_0: 21300000
+      tribe-warrior_1: 21300002
+      tribe-warrior_10: 21300020
+      tribe-warrior_100: 21300200
+      tribe-warrior_101: 21300202
+      tribe-warrior_102: 21300204
+      tribe-warrior_103: 21300206
+      tribe-warrior_104: 21300208
+      tribe-warrior_105: 21300210
+      tribe-warrior_106: 21300212
+      tribe-warrior_107: 21300214
+      tribe-warrior_108: 21300216
+      tribe-warrior_109: 21300218
+      tribe-warrior_11: 21300022
+      tribe-warrior_110: 21300220
+      tribe-warrior_111: 21300222
+      tribe-warrior_112: 21300224
+      tribe-warrior_113: 21300226
+      tribe-warrior_114: 21300228
+      tribe-warrior_115: 21300230
+      tribe-warrior_116: 21300232
+      tribe-warrior_117: 21300234
+      tribe-warrior_118: 21300236
+      tribe-warrior_119: 21300238
+      tribe-warrior_12: 21300024
+      tribe-warrior_120: 21300240
+      tribe-warrior_121: 21300242
+      tribe-warrior_122: 21300244
+      tribe-warrior_123: 21300246
+      tribe-warrior_124: 21300248
+      tribe-warrior_125: 21300250
+      tribe-warrior_126: 21300252
+      tribe-warrior_127: 21300254
+      tribe-warrior_13: 21300026
+      tribe-warrior_14: 21300028
+      tribe-warrior_15: 21300030
+      tribe-warrior_16: 21300032
+      tribe-warrior_17: 21300034
+      tribe-warrior_18: 21300036
+      tribe-warrior_19: 21300038
+      tribe-warrior_2: 21300004
+      tribe-warrior_20: 21300040
+      tribe-warrior_21: 21300042
+      tribe-warrior_22: 21300044
+      tribe-warrior_23: 21300046
+      tribe-warrior_24: 21300048
+      tribe-warrior_25: 21300050
+      tribe-warrior_26: 21300052
+      tribe-warrior_27: 21300054
+      tribe-warrior_28: 21300056
+      tribe-warrior_29: 21300058
+      tribe-warrior_3: 21300006
+      tribe-warrior_30: 21300060
+      tribe-warrior_31: 21300062
+      tribe-warrior_32: 21300064
+      tribe-warrior_33: 21300066
+      tribe-warrior_34: 21300068
+      tribe-warrior_35: 21300070
+      tribe-warrior_36: 21300072
+      tribe-warrior_37: 21300074
+      tribe-warrior_38: 21300076
+      tribe-warrior_39: 21300078
+      tribe-warrior_4: 21300008
+      tribe-warrior_40: 21300080
+      tribe-warrior_41: 21300082
+      tribe-warrior_42: 21300084
+      tribe-warrior_43: 21300086
+      tribe-warrior_44: 21300088
+      tribe-warrior_45: 21300090
+      tribe-warrior_46: 21300092
+      tribe-warrior_47: 21300094
+      tribe-warrior_48: 21300096
+      tribe-warrior_49: 21300098
+      tribe-warrior_5: 21300010
+      tribe-warrior_50: 21300100
+      tribe-warrior_51: 21300102
+      tribe-warrior_52: 21300104
+      tribe-warrior_53: 21300106
+      tribe-warrior_54: 21300108
+      tribe-warrior_55: 21300110
+      tribe-warrior_56: 21300112
+      tribe-warrior_57: 21300114
+      tribe-warrior_58: 21300116
+      tribe-warrior_59: 21300118
+      tribe-warrior_6: 21300012
+      tribe-warrior_60: 21300120
+      tribe-warrior_61: 21300122
+      tribe-warrior_62: 21300124
+      tribe-warrior_63: 21300126
+      tribe-warrior_64: 21300128
+      tribe-warrior_65: 21300130
+      tribe-warrior_66: 21300132
+      tribe-warrior_67: 21300134
+      tribe-warrior_68: 21300136
+      tribe-warrior_69: 21300138
+      tribe-warrior_7: 21300014
+      tribe-warrior_70: 21300140
+      tribe-warrior_71: 21300142
+      tribe-warrior_72: 21300144
+      tribe-warrior_73: 21300146
+      tribe-warrior_74: 21300148
+      tribe-warrior_75: 21300150
+      tribe-warrior_76: 21300152
+      tribe-warrior_77: 21300154
+      tribe-warrior_78: 21300156
+      tribe-warrior_79: 21300158
+      tribe-warrior_8: 21300016
+      tribe-warrior_80: 21300160
+      tribe-warrior_81: 21300162
+      tribe-warrior_82: 21300164
+      tribe-warrior_83: 21300166
+      tribe-warrior_84: 21300168
+      tribe-warrior_85: 21300170
+      tribe-warrior_86: 21300172
+      tribe-warrior_87: 21300174
+      tribe-warrior_88: 21300176
+      tribe-warrior_89: 21300178
+      tribe-warrior_9: 21300018
+      tribe-warrior_90: 21300180
+      tribe-warrior_91: 21300182
+      tribe-warrior_92: 21300184
+      tribe-warrior_93: 21300186
+      tribe-warrior_94: 21300188
+      tribe-warrior_95: 21300190
+      tribe-warrior_96: 21300192
+      tribe-warrior_97: 21300194
+      tribe-warrior_98: 21300196
+      tribe-warrior_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

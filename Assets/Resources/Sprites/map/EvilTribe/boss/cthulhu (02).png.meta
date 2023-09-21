@@ -1,0 +1,4327 @@
+fileFormatVersion: 2
+guid: 197cfcf777814e64496c1ad04b10e5b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cthulhu (02)_0
+  - first:
+      213: 21300002
+    second: cthulhu (02)_1
+  - first:
+      213: 21300004
+    second: cthulhu (02)_2
+  - first:
+      213: 21300006
+    second: cthulhu (02)_3
+  - first:
+      213: 21300008
+    second: cthulhu (02)_4
+  - first:
+      213: 21300010
+    second: cthulhu (02)_5
+  - first:
+      213: 21300012
+    second: cthulhu (02)_6
+  - first:
+      213: 21300014
+    second: cthulhu (02)_7
+  - first:
+      213: 21300016
+    second: cthulhu (02)_8
+  - first:
+      213: 21300018
+    second: cthulhu (02)_9
+  - first:
+      213: 21300020
+    second: cthulhu (02)_10
+  - first:
+      213: 21300022
+    second: cthulhu (02)_11
+  - first:
+      213: 21300024
+    second: cthulhu (02)_12
+  - first:
+      213: 21300026
+    second: cthulhu (02)_13
+  - first:
+      213: 21300028
+    second: cthulhu (02)_14
+  - first:
+      213: 21300030
+    second: cthulhu (02)_15
+  - first:
+      213: 21300032
+    second: cthulhu (02)_16
+  - first:
+      213: 21300034
+    second: cthulhu (02)_17
+  - first:
+      213: 21300036
+    second: cthulhu (02)_18
+  - first:
+      213: 21300038
+    second: cthulhu (02)_19
+  - first:
+      213: 21300040
+    second: cthulhu (02)_20
+  - first:
+      213: 21300042
+    second: cthulhu (02)_21
+  - first:
+      213: 21300044
+    second: cthulhu (02)_22
+  - first:
+      213: 21300046
+    second: cthulhu (02)_23
+  - first:
+      213: 21300048
+    second: cthulhu (02)_24
+  - first:
+      213: 21300050
+    second: cthulhu (02)_25
+  - first:
+      213: 21300052
+    second: cthulhu (02)_26
+  - first:
+      213: 21300054
+    second: cthulhu (02)_27
+  - first:
+      213: 21300056
+    second: cthulhu (02)_28
+  - first:
+      213: 21300058
+    second: cthulhu (02)_29
+  - first:
+      213: 21300060
+    second: cthulhu (02)_30
+  - first:
+      213: 21300062
+    second: cthulhu (02)_31
+  - first:
+      213: 21300064
+    second: cthulhu (02)_32
+  - first:
+      213: 21300066
+    second: cthulhu (02)_33
+  - first:
+      213: 21300068
+    second: cthulhu (02)_34
+  - first:
+      213: 21300070
+    second: cthulhu (02)_35
+  - first:
+      213: 21300072
+    second: cthulhu (02)_36
+  - first:
+      213: 21300074
+    second: cthulhu (02)_37
+  - first:
+      213: 21300076
+    second: cthulhu (02)_38
+  - first:
+      213: 21300078
+    second: cthulhu (02)_39
+  - first:
+      213: 21300080
+    second: cthulhu (02)_40
+  - first:
+      213: 21300082
+    second: cthulhu (02)_41
+  - first:
+      213: 21300084
+    second: cthulhu (02)_42
+  - first:
+      213: 21300086
+    second: cthulhu (02)_43
+  - first:
+      213: 21300088
+    second: cthulhu (02)_44
+  - first:
+      213: 21300090
+    second: cthulhu (02)_45
+  - first:
+      213: 21300092
+    second: cthulhu (02)_46
+  - first:
+      213: 21300094
+    second: cthulhu (02)_47
+  - first:
+      213: 21300096
+    second: cthulhu (02)_48
+  - first:
+      213: 21300098
+    second: cthulhu (02)_49
+  - first:
+      213: 21300100
+    second: cthulhu (02)_50
+  - first:
+      213: 21300102
+    second: cthulhu (02)_51
+  - first:
+      213: 21300104
+    second: cthulhu (02)_52
+  - first:
+      213: 21300106
+    second: cthulhu (02)_53
+  - first:
+      213: 21300108
+    second: cthulhu (02)_54
+  - first:
+      213: 21300110
+    second: cthulhu (02)_55
+  - first:
+      213: 21300112
+    second: cthulhu (02)_56
+  - first:
+      213: 21300114
+    second: cthulhu (02)_57
+  - first:
+      213: 21300116
+    second: cthulhu (02)_58
+  - first:
+      213: 21300118
+    second: cthulhu (02)_59
+  - first:
+      213: 21300120
+    second: cthulhu (02)_60
+  - first:
+      213: 21300122
+    second: cthulhu (02)_61
+  - first:
+      213: 21300124
+    second: cthulhu (02)_62
+  - first:
+      213: 21300126
+    second: cthulhu (02)_63
+  - first:
+      213: 21300128
+    second: cthulhu (02)_64
+  - first:
+      213: 21300130
+    second: cthulhu (02)_65
+  - first:
+      213: 21300132
+    second: cthulhu (02)_66
+  - first:
+      213: 21300134
+    second: cthulhu (02)_67
+  - first:
+      213: 21300136
+    second: cthulhu (02)_68
+  - first:
+      213: 21300138
+    second: cthulhu (02)_69
+  - first:
+      213: 21300140
+    second: cthulhu (02)_70
+  - first:
+      213: 21300142
+    second: cthulhu (02)_71
+  - first:
+      213: 21300144
+    second: cthulhu (02)_72
+  - first:
+      213: 21300146
+    second: cthulhu (02)_73
+  - first:
+      213: 21300148
+    second: cthulhu (02)_74
+  - first:
+      213: 21300150
+    second: cthulhu (02)_75
+  - first:
+      213: 21300152
+    second: cthulhu (02)_76
+  - first:
+      213: 21300154
+    second: cthulhu (02)_77
+  - first:
+      213: 21300156
+    second: cthulhu (02)_78
+  - first:
+      213: 21300158
+    second: cthulhu (02)_79
+  - first:
+      213: 21300160
+    second: cthulhu (02)_80
+  - first:
+      213: 21300162
+    second: cthulhu (02)_81
+  - first:
+      213: 21300164
+    second: cthulhu (02)_82
+  - first:
+      213: 21300166
+    second: cthulhu (02)_83
+  - first:
+      213: 21300168
+    second: cthulhu (02)_84
+  - first:
+      213: 21300170
+    second: cthulhu (02)_85
+  - first:
+      213: 21300172
+    second: cthulhu (02)_86
+  - first:
+      213: 21300174
+    second: cthulhu (02)_87
+  - first:
+      213: 21300176
+    second: cthulhu (02)_88
+  - first:
+      213: 21300178
+    second: cthulhu (02)_89
+  - first:
+      213: 21300180
+    second: cthulhu (02)_90
+  - first:
+      213: 21300182
+    second: cthulhu (02)_91
+  - first:
+      213: 21300184
+    second: cthulhu (02)_92
+  - first:
+      213: 21300186
+    second: cthulhu (02)_93
+  - first:
+      213: 21300188
+    second: cthulhu (02)_94
+  - first:
+      213: 21300190
+    second: cthulhu (02)_95
+  - first:
+      213: 21300192
+    second: cthulhu (02)_96
+  - first:
+      213: 21300194
+    second: cthulhu (02)_97
+  - first:
+      213: 21300196
+    second: cthulhu (02)_98
+  - first:
+      213: 21300198
+    second: cthulhu (02)_99
+  - first:
+      213: 21300200
+    second: cthulhu (02)_100
+  - first:
+      213: 21300202
+    second: cthulhu (02)_101
+  - first:
+      213: 21300204
+    second: cthulhu (02)_102
+  - first:
+      213: 21300206
+    second: cthulhu (02)_103
+  - first:
+      213: 21300208
+    second: cthulhu (02)_104
+  - first:
+      213: 21300210
+    second: cthulhu (02)_105
+  - first:
+      213: 21300212
+    second: cthulhu (02)_106
+  - first:
+      213: 21300214
+    second: cthulhu (02)_107
+  - first:
+      213: 21300216
+    second: cthulhu (02)_108
+  - first:
+      213: 21300218
+    second: cthulhu (02)_109
+  - first:
+      213: 21300220
+    second: cthulhu (02)_110
+  - first:
+      213: 21300222
+    second: cthulhu (02)_111
+  - first:
+      213: 21300224
+    second: cthulhu (02)_112
+  - first:
+      213: 21300226
+    second: cthulhu (02)_113
+  - first:
+      213: 21300228
+    second: cthulhu (02)_114
+  - first:
+      213: 21300230
+    second: cthulhu (02)_115
+  - first:
+      213: 21300232
+    second: cthulhu (02)_116
+  - first:
+      213: 21300234
+    second: cthulhu (02)_117
+  - first:
+      213: 21300236
+    second: cthulhu (02)_118
+  - first:
+      213: 21300238
+    second: cthulhu (02)_119
+  - first:
+      213: 21300240
+    second: cthulhu (02)_120
+  - first:
+      213: 21300242
+    second: cthulhu (02)_121
+  - first:
+      213: 21300244
+    second: cthulhu (02)_122
+  - first:
+      213: 21300246
+    second: cthulhu (02)_123
+  - first:
+      213: 21300248
+    second: cthulhu (02)_124
+  - first:
+      213: 21300250
+    second: cthulhu (02)_125
+  - first:
+      213: 21300252
+    second: cthulhu (02)_126
+  - first:
+      213: 21300254
+    second: cthulhu (02)_127
+  - first:
+      213: 21300256
+    second: cthulhu (02)_128
+  - first:
+      213: 21300258
+    second: cthulhu (02)_129
+  - first:
+      213: 21300260
+    second: cthulhu (02)_130
+  - first:
+      213: 21300262
+    second: cthulhu (02)_131
+  - first:
+      213: 21300264
+    second: cthulhu (02)_132
+  - first:
+      213: 21300266
+    second: cthulhu (02)_133
+  - first:
+      213: 21300268
+    second: cthulhu (02)_134
+  - first:
+      213: 21300270
+    second: cthulhu (02)_135
+  - first:
+      213: 21300272
+    second: cthulhu (02)_136
+  - first:
+      213: 21300274
+    second: cthulhu (02)_137
+  - first:
+      213: 21300276
+    second: cthulhu (02)_138
+  - first:
+      213: 21300278
+    second: cthulhu (02)_139
+  - first:
+      213: 21300280
+    second: cthulhu (02)_140
+  - first:
+      213: 21300282
+    second: cthulhu (02)_141
+  - first:
+      213: 21300284
+    second: cthulhu (02)_142
+  - first:
+      213: 21300286
+    second: cthulhu (02)_143
+  - first:
+      213: 21300288
+    second: cthulhu (02)_144
+  - first:
+      213: 21300290
+    second: cthulhu (02)_145
+  - first:
+      213: 21300292
+    second: cthulhu (02)_146
+  - first:
+      213: 21300294
+    second: cthulhu (02)_147
+  - first:
+      213: 21300296
+    second: cthulhu (02)_148
+  - first:
+      213: 21300298
+    second: cthulhu (02)_149
+  - first:
+      213: 21300300
+    second: cthulhu (02)_150
+  - first:
+      213: 21300302
+    second: cthulhu (02)_151
+  - first:
+      213: 21300304
+    second: cthulhu (02)_152
+  - first:
+      213: 21300306
+    second: cthulhu (02)_153
+  - first:
+      213: 21300308
+    second: cthulhu (02)_154
+  - first:
+      213: 21300310
+    second: cthulhu (02)_155
+  - first:
+      213: 21300312
+    second: cthulhu (02)_156
+  - first:
+      213: 21300314
+    second: cthulhu (02)_157
+  - first:
+      213: 21300316
+    second: cthulhu (02)_158
+  - first:
+      213: 21300318
+    second: cthulhu (02)_159
+  - first:
+      213: 21300320
+    second: cthulhu (02)_160
+  - first:
+      213: 21300322
+    second: cthulhu (02)_161
+  - first:
+      213: 21300324
+    second: cthulhu (02)_162
+  - first:
+      213: 21300326
+    second: cthulhu (02)_163
+  - first:
+      213: 21300328
+    second: cthulhu (02)_164
+  - first:
+      213: 21300330
+    second: cthulhu (02)_165
+  - first:
+      213: 21300332
+    second: cthulhu (02)_166
+  - first:
+      213: 21300334
+    second: cthulhu (02)_167
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cthulhu (02)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f5a1b0037ec7419d3a48f9e7e1a7e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074576aa541500242b85d5aaab6e178d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea005c2f3e83041acb78213d313bb6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_3
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7023f84125934ba5652b20f8f548f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_4
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab8e38e639892845be5d85902e32124
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_5
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e0799e236d28f4a924ecfa1b590ae7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_6
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507752cfe43a3d04ba402b5c000daa98
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_7
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21d552705fdca49b33c20d83d6f709
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_8
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39188cc79301764eae839315072cccd
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_9
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710021358a0992942a819edc4040dd8f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_10
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c1677000b415b4aac77c9fbe02034f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_11
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2182b055569d64c81baa3ecc23bad1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_12
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 5988
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc34c6942ac9447ac1ce85cf10cf69
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84df8884c27064641a592ed036b5dfad
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4e5f7ace187342a175cd23d91cbfe
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee35aa1b888664ea1e393ba6a43474
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_16
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc37709247788b49be397cfcb6d1882
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_17
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45061fccfb16db5439071d6d1b7696d8
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_18
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0cd3cf85b7e04ca326cb811cd3c14
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_19
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e240d1fbb4663c84c9cc2c4f8df2e6c6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_20
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ac8b4448feff4389f1d378ab2487a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_21
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6845e4f73cae4789b3e9c538eafcd
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_22
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb8130f7be6c643bf009745c097ffe
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_23
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b905198914094b875e565d6d78c11
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_24
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28ff6f5237b85a40898d845a851da85
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_25
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 5489
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bcd8f5bbe3a5a448457d6978c0e811
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f256f4b44a4644908544a9b036727
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3727b8dae59fd064d8f4084c1b996a94
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_28
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb544508b54aaf438ac7ab37cc1b8a1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_29
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811bd0f00698548458a46871864ef18c
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_30
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3186ac0b369254bbcac05d5e4d1913
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_31
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1141c360511e54a8b4ee40e4c13720
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_32
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e7625e0ad9f243b7ece4c12195034
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_33
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ecf038d2015747b3502e85be55aa4
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_34
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6b57d080548245aac86a365200acf
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_35
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18267a3a9e9cdf448fd16967ef78d00
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_36
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32ec34d818aec4aa1c94b14dbd1027
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_37
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535f57fed906e941b168f7fe55d2b7e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_38
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 4990
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c133f984e98f45bd42d5ad7ff1576
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172bb14472707a429d26300a2598586
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_40
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22ba2c249f88d4caf45d723fc92515
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_41
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8af592075a4c4dae61e6ae14713a9
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_42
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbf8f0e5bf1794d87533bff8983d89
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_43
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0434b7da0a637f419093504931e5f55
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_44
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00909b3602f2c4f4aa6d7c8a0b9ee244
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_45
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab691f89bb61c409e599fe7aaf0839
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_46
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f10b5338d0604a8b03361c5ed3569
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_47
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab540552506398438efdb8f5b859929
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_48
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd3ea2d66543104d9750762d13c5803
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_49
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8292a59324f9d6419417c68e3475e88
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_50
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92a47da953c9546b29f1cab31ffc68
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_51
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 4491
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7375053af4e44aad3b551493cdf15
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e854ec8ba71f4ea86a0a8d0e16971
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad20a96807902499e7ec1d2321bdd2
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_54
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721566a241208443941de79a180e994
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_55
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07ed533abb40b4d8cd7863af6f905b
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_56
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac448805cbb2e774a97bcdd6d2b1d42b
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_57
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c749b387d7e04d86d3990acd3d253
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_58
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fb6ed89af8fd41ad5d0425284b0c2
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_59
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad68581ae0503924482d7e7b242b7bbb
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_60
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac98dccefd28664e8eb29a27f757ef7
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_61
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2498defb1ed40a4a8114013e59b620d
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_62
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c8806a2bacf44cb2c3d32acce6511
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_63
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1dbc76fea60d498c46f0c0667e7a6
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_64
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 3992
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c6f30d650b8224a8b8474084f6c8b6
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b9e4268a038749a44c359116aa696
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5cf1dcfff80894d8dbd83248614a8f
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_67
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1673edcf5b04c346967ca1876dd36ff
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_68
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791d53d56319ca48a06b50e733aea94
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_69
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa3e3881d53544d8d271e5cd20c2bd
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_70
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5627c1959d294434694c0b6c6e1735a3
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_71
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2901a39e2b7487409477f6b575f5af9
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_72
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a758ca9dfab88044ace0603a5429af6
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_73
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764da1f168a2bcc4f8a95ec72fa9c507
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_74
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ae4a76154be94ebd077fb5feae198
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_75
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7715a3203a22664e9110bfbc660b2ee
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_76
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582a27438fdf644985fdb72bc76575d
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_77
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 3493
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c15386f353084491a89ea6dfbca69
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851153f0b63c2ca49964a972437d5996
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff580f635e803a4bb77c7b8e0348ce8
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_80
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d5abd2f90cb9f479b0814860e6fb82
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_81
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41526b2c3cf39904f9a1b762e03474d8
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_82
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41567ee29f7c0f4281aecef19f78470
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_83
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4d86cfe3c93d489a3c22a7f5f7166
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_84
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b4e092bb0419438e97a4c7f936148
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_85
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06c3b8dee223a438b39a3ad6051470
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_86
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54991f88bdd602e4b94e2e7cc36b560c
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_87
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74120573bd1f89b428b8d3af89c1be7b
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_88
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086483bfe73cbd44f9f621948e486757
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_89
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3d991cfe0cb248a01951fe85e7a1b
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_90
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2994
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb78d518f3f44b4e93fb70eaa940a93
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac1d3ebb838a743bc8171ebffb0c87
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2f1ebe7da6d346966202059096932
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_93
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75b23d4e187a9498dd59f030e8db57
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_94
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c107de37695af34cb11790d3acbbb5a
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_95
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed125a9ffd45c4a84d17bb017d7d21
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_96
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7b6f907ffe1c4d8d1b80c62d775d2
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_97
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90c5650c1cb604e85200fa172bfdfa
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_98
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d8a2853c14884bac72257efa5ce5a
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_99
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81141cff3d12ba847b884db7d4bfe33e
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_100
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c850fdcc95849149a1bbe8a6a0976e8
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_101
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a227ad603e8c834fa9d59a9d4aa2eb6
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_102
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf07d0e6e15382e4ca4c9b0a75e88d3a
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_103
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2495
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694e880ccb5e814dae5b5e4d7d6902d
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686fcf993af5b043945691874f6ad0c
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_105
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7b50c6c0a408419015b01b332ddf1
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_106
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66fc5fb15025f479209bee562b2651
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_107
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e2670444ee764d938800c2887cfe8
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_108
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4095654d0d4a44a4089bcad1dbefa
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_109
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fed8019000d8a478f69199f15c511f
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_110
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8def3e5cee974724b876db7013dd08d0
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_111
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c3f332e6f47a4bba68a7fd753348e
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_112
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd93e414c737dd46a237cbf494f3a38
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_113
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b4832a16e9a045b82260883495b28
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_114
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70481d7c0a6650b4d8227fea53d3d38e
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_115
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7c91954669f464998fbcae8a7953ad
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_116
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 1996
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62652114f52b0469d0528c856118eb
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb2c932aaeab04098f3a115e41115b
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_118
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ebc08dc0d6b5a4ca548555d2c7e5c9
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_119
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c38dd03e175045a33d1773d15d188
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_120
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f14d52aea71a41aaadfb406c0a690
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_121
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf2922de95a9347a844786a9c196e3
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_122
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c0169c27aeea4aaeaa5b7457be228
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_123
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60a4c158978d649a6caa977acac0c5
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_124
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a64d5e81b34f34f910b6030515845e
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_125
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c087e79f2105e4d8e6669bf5316dfb
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_126
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b28b7cffefcb343ab7830a9b38ab20
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_127
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d259d3f9bdf1e64eb809ef651c8ee8e
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_128
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320ee6800adbed4aafe3612903bae28
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_129
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 1497
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd6391f2129da4eb7bd918cf1c3d5d
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e3950049236742aa92ee10e1be797
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_131
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec686f8f83cb493408dbb290602dd4f9
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_132
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8dd7531ef07a746a92e4559172ca96
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_133
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8707ccfd150b9c24aa3ae909d270add7
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_134
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6228600db51da4e900360e7af91433
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_135
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8211f513b5dda54ab43f0d55eb16dec
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_136
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3749dc0ce46f15c469ba2fb6f77646bd
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_137
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ff0f1225971a64a832345e1508d19a
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_138
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a370133e3d3ef47b2a167a610e621b
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_139
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a79eb5b9913294098d36a0d61ec08a
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_140
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab48ea82bbf581449619ae8ca945fd6
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_141
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5e385e33989d4688b67bb7956e29b
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_142
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 998
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f19d6d300d2749885fb277e61cf26
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42138ff7b6bec624fb1fc94bb3f2748f
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_144
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188e34a792bdae745a5396ae23b315e1
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_145
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdd4df18ab70704c98ec8322480282a
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_146
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e893f907829a8f4fb49bc103223c9b1
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_147
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f42ced15598240bd1b84e47cb35d3
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_148
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e094883fd5c8a347a712703c97b5384
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_149
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a1ebcac568074494926e829d73187
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_150
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ad4ee705e3f14193d6314a9540a23
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_151
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34634f9e1663b814c97bf130f4d8bbc4
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_152
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492c66d5bb83004592d9330a1abe75c
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_153
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811b03c334d7c0c458c98da91396fe12
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_154
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393862d68c632745a574b5ff1e7fc56
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_155
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 499
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb6162562f4bdc4ba85eba5b6f95f85
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a371ac5f9d1c6b24a8a0549f157f21a3
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_157
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fdfa0e38712d40b17dbb93db281c3
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_158
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087c03c51676f643939eaede507a39d
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_159
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8b1c43739e4164a9fb7c652045ce39
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_160
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb0517eab795547b0b0a144612440b
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_161
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acda2a97e6f65a48ac94900119b39ef
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_162
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f68717b9a44fc84aa1438ffb6baf885
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_163
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b89f80101bfc43bb6ab21afa278ca
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_164
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967652b1aa38c7047826bc573449f5d0
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_165
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708353693c4286641aea0b2a3fa1f86d
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_166
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3164811484ecb6478e93cbc3b911cfd
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cthulhu (02)_167
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 0
+        width: 528
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8db6ecb65afcf249a0b8fe665998782
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 78ed38e515fcc904bad9b365855a8b83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cthulhu (02)_0: 21300000
+      cthulhu (02)_1: 21300002
+      cthulhu (02)_10: 21300020
+      cthulhu (02)_100: 21300200
+      cthulhu (02)_101: 21300202
+      cthulhu (02)_102: 21300204
+      cthulhu (02)_103: 21300206
+      cthulhu (02)_104: 21300208
+      cthulhu (02)_105: 21300210
+      cthulhu (02)_106: 21300212
+      cthulhu (02)_107: 21300214
+      cthulhu (02)_108: 21300216
+      cthulhu (02)_109: 21300218
+      cthulhu (02)_11: 21300022
+      cthulhu (02)_110: 21300220
+      cthulhu (02)_111: 21300222
+      cthulhu (02)_112: 21300224
+      cthulhu (02)_113: 21300226
+      cthulhu (02)_114: 21300228
+      cthulhu (02)_115: 21300230
+      cthulhu (02)_116: 21300232
+      cthulhu (02)_117: 21300234
+      cthulhu (02)_118: 21300236
+      cthulhu (02)_119: 21300238
+      cthulhu (02)_12: 21300024
+      cthulhu (02)_120: 21300240
+      cthulhu (02)_121: 21300242
+      cthulhu (02)_122: 21300244
+      cthulhu (02)_123: 21300246
+      cthulhu (02)_124: 21300248
+      cthulhu (02)_125: 21300250
+      cthulhu (02)_126: 21300252
+      cthulhu (02)_127: 21300254
+      cthulhu (02)_128: 21300256
+      cthulhu (02)_129: 21300258
+      cthulhu (02)_13: 21300026
+      cthulhu (02)_130: 21300260
+      cthulhu (02)_131: 21300262
+      cthulhu (02)_132: 21300264
+      cthulhu (02)_133: 21300266
+      cthulhu (02)_134: 21300268
+      cthulhu (02)_135: 21300270
+      cthulhu (02)_136: 21300272
+      cthulhu (02)_137: 21300274
+      cthulhu (02)_138: 21300276
+      cthulhu (02)_139: 21300278
+      cthulhu (02)_14: 21300028
+      cthulhu (02)_140: 21300280
+      cthulhu (02)_141: 21300282
+      cthulhu (02)_142: 21300284
+      cthulhu (02)_143: 21300286
+      cthulhu (02)_144: 21300288
+      cthulhu (02)_145: 21300290
+      cthulhu (02)_146: 21300292
+      cthulhu (02)_147: 21300294
+      cthulhu (02)_148: 21300296
+      cthulhu (02)_149: 21300298
+      cthulhu (02)_15: 21300030
+      cthulhu (02)_150: 21300300
+      cthulhu (02)_151: 21300302
+      cthulhu (02)_152: 21300304
+      cthulhu (02)_153: 21300306
+      cthulhu (02)_154: 21300308
+      cthulhu (02)_155: 21300310
+      cthulhu (02)_156: 21300312
+      cthulhu (02)_157: 21300314
+      cthulhu (02)_158: 21300316
+      cthulhu (02)_159: 21300318
+      cthulhu (02)_16: 21300032
+      cthulhu (02)_160: 21300320
+      cthulhu (02)_161: 21300322
+      cthulhu (02)_162: 21300324
+      cthulhu (02)_163: 21300326
+      cthulhu (02)_164: 21300328
+      cthulhu (02)_165: 21300330
+      cthulhu (02)_166: 21300332
+      cthulhu (02)_167: 21300334
+      cthulhu (02)_17: 21300034
+      cthulhu (02)_18: 21300036
+      cthulhu (02)_19: 21300038
+      cthulhu (02)_2: 21300004
+      cthulhu (02)_20: 21300040
+      cthulhu (02)_21: 21300042
+      cthulhu (02)_22: 21300044
+      cthulhu (02)_23: 21300046
+      cthulhu (02)_24: 21300048
+      cthulhu (02)_25: 21300050
+      cthulhu (02)_26: 21300052
+      cthulhu (02)_27: 21300054
+      cthulhu (02)_28: 21300056
+      cthulhu (02)_29: 21300058
+      cthulhu (02)_3: 21300006
+      cthulhu (02)_30: 21300060
+      cthulhu (02)_31: 21300062
+      cthulhu (02)_32: 21300064
+      cthulhu (02)_33: 21300066
+      cthulhu (02)_34: 21300068
+      cthulhu (02)_35: 21300070
+      cthulhu (02)_36: 21300072
+      cthulhu (02)_37: 21300074
+      cthulhu (02)_38: 21300076
+      cthulhu (02)_39: 21300078
+      cthulhu (02)_4: 21300008
+      cthulhu (02)_40: 21300080
+      cthulhu (02)_41: 21300082
+      cthulhu (02)_42: 21300084
+      cthulhu (02)_43: 21300086
+      cthulhu (02)_44: 21300088
+      cthulhu (02)_45: 21300090
+      cthulhu (02)_46: 21300092
+      cthulhu (02)_47: 21300094
+      cthulhu (02)_48: 21300096
+      cthulhu (02)_49: 21300098
+      cthulhu (02)_5: 21300010
+      cthulhu (02)_50: 21300100
+      cthulhu (02)_51: 21300102
+      cthulhu (02)_52: 21300104
+      cthulhu (02)_53: 21300106
+      cthulhu (02)_54: 21300108
+      cthulhu (02)_55: 21300110
+      cthulhu (02)_56: 21300112
+      cthulhu (02)_57: 21300114
+      cthulhu (02)_58: 21300116
+      cthulhu (02)_59: 21300118
+      cthulhu (02)_6: 21300012
+      cthulhu (02)_60: 21300120
+      cthulhu (02)_61: 21300122
+      cthulhu (02)_62: 21300124
+      cthulhu (02)_63: 21300126
+      cthulhu (02)_64: 21300128
+      cthulhu (02)_65: 21300130
+      cthulhu (02)_66: 21300132
+      cthulhu (02)_67: 21300134
+      cthulhu (02)_68: 21300136
+      cthulhu (02)_69: 21300138
+      cthulhu (02)_7: 21300014
+      cthulhu (02)_70: 21300140
+      cthulhu (02)_71: 21300142
+      cthulhu (02)_72: 21300144
+      cthulhu (02)_73: 21300146
+      cthulhu (02)_74: 21300148
+      cthulhu (02)_75: 21300150
+      cthulhu (02)_76: 21300152
+      cthulhu (02)_77: 21300154
+      cthulhu (02)_78: 21300156
+      cthulhu (02)_79: 21300158
+      cthulhu (02)_8: 21300016
+      cthulhu (02)_80: 21300160
+      cthulhu (02)_81: 21300162
+      cthulhu (02)_82: 21300164
+      cthulhu (02)_83: 21300166
+      cthulhu (02)_84: 21300168
+      cthulhu (02)_85: 21300170
+      cthulhu (02)_86: 21300172
+      cthulhu (02)_87: 21300174
+      cthulhu (02)_88: 21300176
+      cthulhu (02)_89: 21300178
+      cthulhu (02)_9: 21300018
+      cthulhu (02)_90: 21300180
+      cthulhu (02)_91: 21300182
+      cthulhu (02)_92: 21300184
+      cthulhu (02)_93: 21300186
+      cthulhu (02)_94: 21300188
+      cthulhu (02)_95: 21300190
+      cthulhu (02)_96: 21300192
+      cthulhu (02)_97: 21300194
+      cthulhu (02)_98: 21300196
+      cthulhu (02)_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
